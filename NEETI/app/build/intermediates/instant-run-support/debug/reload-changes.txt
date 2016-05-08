@@ -1,0 +1,14 @@
+CHANGED,C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\pt\ulisboa\tecnico\neeti\MainMenu$FragmentNeeti$override.class
+CHANGED,C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\pt\ulisboa\tecnico\neeti\R$style$override.class
+CHANGED,C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\pt\ulisboa\tecnico\neeti\R$integer$override.class
+CHANGED,C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\pt\ulisboa\tecnico\neeti\R$menu$override.class
+CHANGED,C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\pt\ulisboa\tecnico\neeti\MainMenu$SectionsPagerAdapter$override.class
+CHANGED,C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$id$override.class
+CHANGED,C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\pt\ulisboa\tecnico\neeti\R$layout$override.class
+CHANGED,C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\pt\ulisboa\tecnico\neeti\R$id$override.class
+CHANGED,C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\pt\ulisboa\tecnico\neeti\R$mipmap$override.class
+CHANGED,C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\pt\ulisboa\tecnico\neeti\R$string$override.class
+CHANGED,C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\design\R$id$override.class
+CHANGED,C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\pt\ulisboa\tecnico\neeti\R$styleable$override.class
+CHANGED,C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\pt\ulisboa\tecnico\neeti\MainMenu$FragmentMenu$override.class

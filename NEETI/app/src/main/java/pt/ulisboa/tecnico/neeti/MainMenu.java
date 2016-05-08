@@ -1,5 +1,6 @@
 package pt.ulisboa.tecnico.neeti;
 
+import android.content.Intent;
 import android.graphics.drawable.Drawable;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -22,6 +23,7 @@ import android.view.ViewGroup.LayoutParams;
 import java.util.Map;
 import java.util.HashMap;
 
+import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 public class MainMenu extends AppCompatActivity {
@@ -123,16 +125,41 @@ public class MainMenu extends AppCompatActivity {
 
 
 
+
+
+
+
+
+
     // fraguementos
 
     public static class FragmentMenu extends Fragment {
         private static final String ARG_SECTION_TITLE = "section_title";
         private static final String ARG_SECTION_IMG = "menuIcon";
         private Bundle args;
+        private Intent ident;
+        private View alphaView;
+
+        public void setRootViewAlpha (View v) {
+            alphaView = v;
+        }
 
         public FragmentMenu () {
             args = new Bundle();
             setArguments(args);
+        }
+
+        public void onClick () {
+            alphaView.getContext().startActivity(ident);
+        }
+
+        public void setIntent (Intent i) {
+            ident = i;
+        }
+
+        public void setPage (View v) {
+            Intent i = new Intent(v.getContext().getApplicationContext(), ScrollingActivity.class);
+            setIntent (i);
         }
 
         public void addTitle (CharSequence sectionTitle) {
@@ -153,11 +180,13 @@ public class MainMenu extends AppCompatActivity {
         public View onCreateView(LayoutInflater inflater, ViewGroup container,
                                  Bundle savedInstanceState) {
             View rootView = inflater.inflate(R.layout.fragment_main_menu, container, false);
+            setRootViewAlpha (rootView);
             TextView textView = (TextView) rootView.findViewById(R.id.textViewRL);
             textView.setText(getArguments().getCharSequence(ARG_SECTION_TITLE));
             textView.setGravity(Gravity.CENTER_HORIZONTAL);
             ImageView imageView = (ImageView) rootView.findViewById(R.id.menuIcon);
             imageView.setImageResource(getArguments().getInt(ARG_SECTION_IMG));
+            setPage(rootView);
             return rootView;
         }
     }
@@ -174,11 +203,35 @@ public class MainMenu extends AppCompatActivity {
             super();
         }
 
+        @Override
+        public void setPage (View v) {
+            Intent i = new Intent(v.getContext().getApplicationContext(), ScrollingNEETI.class);
+            setIntent (i);
+        }
+
         public static FragmentNeeti newInstance() {
             FragmentNeeti fragment = new FragmentNeeti();
             fragment.addTitle("NEETI");
             fragment.setImage(R.drawable.neeti);
             return fragment;
+        }
+
+        @Override
+        public View onCreateView(LayoutInflater inflater, ViewGroup container,
+                                Bundle savedInstanceState) {
+            View rootView = super.onCreateView(inflater, container, savedInstanceState);
+
+            final ImageView switchact =(ImageView) rootView.findViewById(R.id.menuIcon);
+            switchact.setOnClickListener(new View.OnClickListener() {
+
+                @Override
+                public void onClick(View view) {
+                    Intent act2 = new Intent(view.getContext(),ScrollingNEETI.class);
+                    startActivity(act2);
+
+                }
+            });
+            return rootView;
         }
     }
 

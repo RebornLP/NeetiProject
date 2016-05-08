@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="armeabi-v7a,armeabi"
-    api-level="22"
-    density="xhdpi"
+    abi="x86"
+    api-level="23"
+    density="xxhdpi"
     format="7"
-    timestamp="9157190613658" >
+    timestamp="189916015807686" >
 
     <task
         name="javac"
@@ -20,13 +20,31 @@
         duration="0" />
 
     <artifact
-        location="/home/pedro/Desktop/PPA/NeetiProject/NEETI/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        location="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
 
-    <build timestamp="9157190613658" >
+    <build timestamp="189405848095289" >
         <artifact
-            location="/home/pedro/Desktop/PPA/NeetiProject/NEETI/app/build/outputs/apk/app-debug.apk"
+            location="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="189568343659128"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="189916015807686" >
+        <artifact
+            location="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>

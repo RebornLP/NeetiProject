@@ -2,4 +2,19 @@
     <string name="app_name">NEETI</string>
     <string name="neeti_full">Núcleo de Estudantes de Engenharia de Telecomunicações e Informática</string>
     <string name="icon_description">Icon of Frame</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="large_text_neeti">
+        "\"A Engenharia da Internet\" é assim que pode ser conhecida a Engenharia de Telecomunicações e Informática,"
+        "um curso recente, mas um dos cursos mais importantes num futuro próximo, onde o mundo gira à volta da internet."
+        "Com a chegada da “Internet of things” (um mundo onde tudo o que nos rodeia, está ligado à rede) e com a utilização"
+        "que existe atualmente dos telemóveis, a importância dos engenheiros de redes é cada vez maior e são precisos cada vez mais."
+        "\n\nSituados no Polo Tecnológico do Taguspark, em Oeiras, a Licenciatura em Engenharia de Telecomunicações e Informática do"
+        "Instituto Superior Técnico é o Curso onde se juntam a Informática, a Eletrotecnia e as Telecomunicações, três áreas que"
+        "até aqui não se cruzavam, são agora essenciais juntas para o futuro e o desenvolvimento da Internet."
+        "\n\nSendo um dos poucos cursos do país com 100% de empregabilidade na área, as principais saídas para um Engenheiro de ETI"
+        "são a gestão e o planeamento redes de telecomunicações, a programação de aplicações móveis, multimédia e na cloud,"
+        "a arquitetura de redes de computadores, a projeção e gestão de sistemas de informação e bases de dados para a web,"
+        "entre outras.\n\n"
+    </string>
+    <string name="action_settings">Settings</string>
 </resources>
