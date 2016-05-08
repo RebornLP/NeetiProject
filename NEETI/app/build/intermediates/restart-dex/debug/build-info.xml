@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86"
-    api-level="23"
-    density="xxhdpi"
+    abi="armeabi-v7a,armeabi"
+    api-level="22"
+    density="xhdpi"
     format="7"
-    timestamp="190473287415884" >
+    timestamp="19423042740304" >
 
     <task
         name="javac"
@@ -19,19 +19,34 @@
         name="verifier"
         duration="0" />
 
-    <artifact
-        location="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\res\resources-debug.ap_"
-        type="RESOURCES" />
-
-    <build timestamp="190402454713218" >
+    <build timestamp="17077960262631" >
         <artifact
-            location="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\outputs\apk\app-debug.apk"
+            location="/home/pedro/Desktop/PPA/NeetiProject/NEETI/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="190473287415884" >
+    <build timestamp="18103343237007" >
         <artifact
-            location="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\res\resources-debug.ap_"
-            type="RESOURCES" />
+            location="/home/pedro/Desktop/PPA/NeetiProject/NEETI/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            type="DEX" />
     </build>
+    <build timestamp="18745157755339" >
+        <artifact
+            location="/home/pedro/Desktop/PPA/NeetiProject/NEETI/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/pedro/Desktop/PPA/NeetiProject/NEETI/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="19152658066459"
+        verifier="FIELD_TYPE_CHANGE" >
+        <artifact
+            location="/home/pedro/Desktop/PPA/NeetiProject/NEETI/app/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/home/pedro/Desktop/PPA/NeetiProject/NEETI/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="19423042740304" />
 
 </instant-run>

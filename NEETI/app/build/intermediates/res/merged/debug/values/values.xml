@@ -1,5 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="list_cadeiras_ciencEng">
+        <item>Álgebra Linear</item>
+        <item>Elementos de Matemática Discreta</item>
+        <item>Probabilidades e Estatística</item>
+        <item>Cálculo Diferencial e Integral I</item>
+        <item>Cálculo Diferencial e Integral II</item>
+        <item>Mecânica e Ondas</item>
+        <item>Análise Complexa e Equações Diferenciais</item>
+        <item>Electromagnetismo e Óptica</item>
+        <item>Matemática Computacional</item>
+    </string-array>
+    <string-array name="list_cadeiras_electro">
+        <item>Sistemas e Sinais</item>
+        <item>Introdução aos Circuitos e Sistemas Electrónicos</item>
+        <item>Electrónica dos Sistemas Embebidos</item>
+        <item>Propagação e Antenas</item>
+        <item>Sistemas de Comunicações</item>
+    </string-array>
+    <string-array name="list_cadeiras_electro_infor">
+        <item>Sistemas Digitais</item>
+        <item>Introdução às Redes de Computadores</item>
+        <item>Arquitecturas de Redes</item>
+        <item>Gestão e Segurança de Redes</item>
+        <item>Arquitectura de Computadores</item>
+    </string-array>
+    <string-array name="list_cadeiras_infor">
+        <item>Fundamentos da Programação</item>
+        <item>Introdução às Interfaces Pessoa-Máquina</item>
+        <item>Sistemas Distribuídos</item>
+        <item>Introdução aos Algoritmos e Estruturas de Dados</item>
+        <item>Programação com Objectos</item>
+        <item>Sistemas Operativos</item>
+        <item>Bases de Dados</item>
+        <item>Engenharia de Software</item>
+    </string-array>
+    <string-array name="list_cadeiras_others">
+        <item>Introdução à Engenharia de Telecomunicações e Informática</item>
+        <item>Gestão</item>
+        <item>Portfolio Pessoal A</item>
+    </string-array>
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>
     <attr format="boolean" name="isLightTheme"/>
@@ -280,7 +320,6 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <string name="action_settings">Settings</string>
     <string name="app_name">NEETI</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>

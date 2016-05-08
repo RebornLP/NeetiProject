@@ -16,5 +16,47 @@
         "a arquitetura de redes de computadores, a projeção e gestão de sistemas de informação e bases de dados para a web,"
         "entre outras.\n\n"
     </string>
-    <string name="action_settings">Settings</string>
+
+
+    <string-array name="list_cadeiras_ciencEng">
+        <item>Álgebra Linear</item>
+        <item>Elementos de Matemática Discreta</item>
+        <item>Probabilidades e Estatística</item>
+        <item>Cálculo Diferencial e Integral I</item>
+        <item>Cálculo Diferencial e Integral II</item>
+        <item>Mecânica e Ondas</item>
+        <item>Análise Complexa e Equações Diferenciais</item>
+        <item>Electromagnetismo e Óptica</item>
+        <item>Matemática Computacional</item>
+    </string-array>
+    <string-array name="list_cadeiras_electro">
+        <item>Sistemas e Sinais</item>
+        <item>Introdução aos Circuitos e Sistemas Electrónicos</item>
+        <item>Electrónica dos Sistemas Embebidos</item>
+        <item>Propagação e Antenas</item>
+        <item>Sistemas de Comunicações</item>
+    </string-array>
+    <string-array name="list_cadeiras_infor">
+        <item>Fundamentos da Programação</item>
+        <item>Introdução às Interfaces Pessoa-Máquina</item>
+        <item>Sistemas Distribuídos</item>
+        <item>Introdução aos Algoritmos e Estruturas de Dados</item>
+        <item>Programação com Objectos</item>
+        <item>Sistemas Operativos</item>
+        <item>Bases de Dados</item>
+        <item>Engenharia de Software</item>
+    </string-array>
+    <string-array name="list_cadeiras_others">
+        <item>Introdução à Engenharia de Telecomunicações e Informática</item>
+        <item>Gestão</item>
+        <item>Portfolio Pessoal A</item>
+    </string-array>
+    <string-array name="list_cadeiras_electro_infor">
+        <item>Sistemas Digitais</item>
+        <item>Introdução às Redes de Computadores</item>
+        <item>Arquitecturas de Redes</item>
+        <item>Gestão e Segurança de Redes</item>
+        <item>Arquitectura de Computadores</item>
+    </string-array>
+
 </resources>
