@@ -23,6 +23,7 @@
         <activity
             android:name=".ScrollingNEETI"
             android:label="@string/title_activity_scrolling"
+            android:screenOrientation="portrait"
             android:parentActivityName=".MainMenu"
             android:theme="@style/AppTheme.NoActionBar">
             <meta-data

@@ -4,7 +4,7 @@
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="189916015807686" >
+    timestamp="190473287415884" >
 
     <task
         name="javac"
@@ -23,25 +23,12 @@
         location="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\res\resources-debug.ap_"
         type="RESOURCES" />
 
-    <build timestamp="189405848095289" >
+    <build timestamp="190402454713218" >
         <artifact
             location="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
-    <build
-        timestamp="189568343659128"
-        verifier="R_CLASS_CHANGE" >
-        <artifact
-            location="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
-            type="DEX" />
-    </build>
-    <build timestamp="189916015807686" >
+    <build timestamp="190473287415884" >
         <artifact
             location="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\res\resources-debug.ap_"
             type="RESOURCES" />
