@@ -59,4 +59,21 @@
         <item>Arquitectura de Computadores</item>
     </string-array>
 
+    <string name="large_text_requisitos">
+        "Texto para requisitos ..."
+    </string>
+    <string name="large_text_eventos">
+        "Texto para eventos ..."
+    </string>
+    <string name="large_text_tagus">
+        "Texto para o tagus ..."
+    </string>
+    <string name="large_text_contacto">
+        "Para contactos de qualquer espécie, o nosso email é: geral@neeti.tecnico.ulisboa.pt"
+        "\n\nTambém estamos sempre à disposição na sala 1.9 do Campus do Taguspark do IST."
+        "\nAv. Prof. Doutor Cavaco Silva, 2744-016 Porto Salvo"
+        "\nTelefone: +351 214 233 547"
+        "\nExtensão: 5147"
+    </string>
+    <string name="action_settings">Settings</string>
 </resources>

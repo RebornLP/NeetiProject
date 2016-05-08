@@ -320,11 +320,22 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="action_settings">Settings</string>
     <string name="app_name">NEETI</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
     <string name="icon_description">Icon of Frame</string>
+    <string name="large_text_contacto">
+        "Para contactos de qualquer espécie, o nosso email é: geral@neeti.tecnico.ulisboa.pt"
+        "\n\nTambém estamos sempre à disposição na sala 1.9 do Campus do Taguspark do IST."
+        "\nAv. Prof. Doutor Cavaco Silva, 2744-016 Porto Salvo"
+        "\nTelefone: +351 214 233 547"
+        "\nExtensão: 5147"
+    </string>
+    <string name="large_text_eventos">
+        "Texto para eventos ..."
+    </string>
     <string name="large_text_neeti">
         "\"A Engenharia da Internet\" é assim que pode ser conhecida a Engenharia de Telecomunicações e Informática,"
         "um curso recente, mas um dos cursos mais importantes num futuro próximo, onde o mundo gira à volta da internet."
@@ -337,6 +348,12 @@
         "são a gestão e o planeamento redes de telecomunicações, a programação de aplicações móveis, multimédia e na cloud,"
         "a arquitetura de redes de computadores, a projeção e gestão de sistemas de informação e bases de dados para a web,"
         "entre outras.\n\n"
+    </string>
+    <string name="large_text_requisitos">
+        "Texto para requisitos ..."
+    </string>
+    <string name="large_text_tagus">
+        "Texto para o tagus ..."
     </string>
     <string name="neeti_full">Núcleo de Estudantes de Engenharia de Telecomunicações e Informática</string>
     <string name="status_bar_notification_info_overflow">999+</string>

@@ -4,49 +4,34 @@
     api-level="22"
     density="xhdpi"
     format="7"
-    timestamp="19423042740304" >
+    timestamp="22061830180182" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="78" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="21" />
     <task
         name="verifier"
-        duration="0" />
+        duration="1" />
 
-    <build timestamp="17077960262631" >
+    <artifact
+        location="/home/pedro/Desktop/PPA/NeetiProject/NEETI/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+        type="DEX" />
+
+    <build timestamp="21395953919254" >
         <artifact
             location="/home/pedro/Desktop/PPA/NeetiProject/NEETI/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="18103343237007" >
-        <artifact
-            location="/home/pedro/Desktop/PPA/NeetiProject/NEETI/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
-            type="DEX" />
-    </build>
-    <build timestamp="18745157755339" >
-        <artifact
-            location="/home/pedro/Desktop/PPA/NeetiProject/NEETI/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/home/pedro/Desktop/PPA/NeetiProject/NEETI/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="19152658066459"
-        verifier="FIELD_TYPE_CHANGE" >
-        <artifact
-            location="/home/pedro/Desktop/PPA/NeetiProject/NEETI/app/build/intermediates/res/resources-debug.ap_"
-            type="RESOURCES" />
+    <build timestamp="22061830180182" >
         <artifact
             location="/home/pedro/Desktop/PPA/NeetiProject/NEETI/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
             type="DEX" />
     </build>
-    <build timestamp="19423042740304" />
 
 </instant-run>

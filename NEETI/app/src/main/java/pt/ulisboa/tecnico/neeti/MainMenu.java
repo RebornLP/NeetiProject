@@ -137,29 +137,10 @@ public class MainMenu extends AppCompatActivity {
         private static final String ARG_SECTION_TITLE = "section_title";
         private static final String ARG_SECTION_IMG = "menuIcon";
         private Bundle args;
-        private Intent ident;
-        private View alphaView;
-
-        public void setRootViewAlpha (View v) {
-            alphaView = v;
-        }
 
         public FragmentMenu () {
             args = new Bundle();
             setArguments(args);
-        }
-
-        public void onClick () {
-            alphaView.getContext().startActivity(ident);
-        }
-
-        public void setIntent (Intent i) {
-            ident = i;
-        }
-
-        public void setPage (View v) {
-            Intent i = new Intent(v.getContext().getApplicationContext(), ScrollingActivity.class);
-            setIntent (i);
         }
 
         public void addTitle (CharSequence sectionTitle) {
@@ -180,13 +161,11 @@ public class MainMenu extends AppCompatActivity {
         public View onCreateView(LayoutInflater inflater, ViewGroup container,
                                  Bundle savedInstanceState) {
             View rootView = inflater.inflate(R.layout.fragment_main_menu, container, false);
-            setRootViewAlpha (rootView);
             TextView textView = (TextView) rootView.findViewById(R.id.textViewRL);
             textView.setText(getArguments().getCharSequence(ARG_SECTION_TITLE));
             textView.setGravity(Gravity.CENTER_HORIZONTAL);
             ImageView imageView = (ImageView) rootView.findViewById(R.id.menuIcon);
             imageView.setImageResource(getArguments().getInt(ARG_SECTION_IMG));
-            setPage(rootView);
             return rootView;
         }
     }
@@ -203,12 +182,6 @@ public class MainMenu extends AppCompatActivity {
             super();
         }
 
-        @Override
-        public void setPage (View v) {
-            Intent i = new Intent(v.getContext().getApplicationContext(), ScrollingNEETI.class);
-            setIntent (i);
-        }
-
         public static FragmentNeeti newInstance() {
             FragmentNeeti fragment = new FragmentNeeti();
             fragment.addTitle("NEETI");
@@ -220,7 +193,6 @@ public class MainMenu extends AppCompatActivity {
         public View onCreateView(LayoutInflater inflater, ViewGroup container,
                                 Bundle savedInstanceState) {
             View rootView = super.onCreateView(inflater, container, savedInstanceState);
-
             final ImageView switchact =(ImageView) rootView.findViewById(R.id.menuIcon);
             switchact.setOnClickListener(new View.OnClickListener() {
 
@@ -228,7 +200,6 @@ public class MainMenu extends AppCompatActivity {
                 public void onClick(View view) {
                     Intent act2 = new Intent(view.getContext(),ScrollingNEETI.class);
                     startActivity(act2);
-
                 }
             });
             return rootView;
@@ -246,6 +217,21 @@ public class MainMenu extends AppCompatActivity {
             fragment.setImage(R.drawable.cadeiras);
             return fragment;
         }
+        @Override
+        public View onCreateView(LayoutInflater inflater, ViewGroup container,
+                                 Bundle savedInstanceState) {
+            View rootView = super.onCreateView(inflater, container, savedInstanceState);
+            final ImageView switchact =(ImageView) rootView.findViewById(R.id.menuIcon);
+            switchact.setOnClickListener(new View.OnClickListener() {
+
+                @Override
+                public void onClick(View view) {
+                    Intent act2 = new Intent(view.getContext(),ScrollingCadeiras.class);
+                    startActivity(act2);
+                }
+            });
+            return rootView;
+        }
     }
 
     public static class FragmentRequisitos extends FragmentMenu {
@@ -258,6 +244,21 @@ public class MainMenu extends AppCompatActivity {
             fragment.addTitle("Requisitos");
             fragment.setImage(R.drawable.unknown);
             return fragment;
+        }
+        @Override
+        public View onCreateView(LayoutInflater inflater, ViewGroup container,
+                                 Bundle savedInstanceState) {
+            View rootView = super.onCreateView(inflater, container, savedInstanceState);
+            final ImageView switchact =(ImageView) rootView.findViewById(R.id.menuIcon);
+            switchact.setOnClickListener(new View.OnClickListener() {
+
+                @Override
+                public void onClick(View view) {
+                    Intent act2 = new Intent(view.getContext(),ScrollingRequisitos.class);
+                    startActivity(act2);
+                }
+            });
+            return rootView;
         }
     }
 
@@ -272,6 +273,21 @@ public class MainMenu extends AppCompatActivity {
             fragment.setImage(R.drawable.eventos);
             return fragment;
         }
+        @Override
+        public View onCreateView(LayoutInflater inflater, ViewGroup container,
+                                 Bundle savedInstanceState) {
+            View rootView = super.onCreateView(inflater, container, savedInstanceState);
+            final ImageView switchact =(ImageView) rootView.findViewById(R.id.menuIcon);
+            switchact.setOnClickListener(new View.OnClickListener() {
+
+                @Override
+                public void onClick(View view) {
+                    Intent act2 = new Intent(view.getContext(),ScrollingEventos.class);
+                    startActivity(act2);
+                }
+            });
+            return rootView;
+        }
     }
 
     public static class FragmentTagus extends FragmentMenu {
@@ -284,6 +300,21 @@ public class MainMenu extends AppCompatActivity {
             fragment.addTitle("Tagus");
             fragment.setImage(R.drawable.unknown);
             return fragment;
+        }
+        @Override
+        public View onCreateView(LayoutInflater inflater, ViewGroup container,
+                                 Bundle savedInstanceState) {
+            View rootView = super.onCreateView(inflater, container, savedInstanceState);
+            final ImageView switchact =(ImageView) rootView.findViewById(R.id.menuIcon);
+            switchact.setOnClickListener(new View.OnClickListener() {
+
+                @Override
+                public void onClick(View view) {
+                    Intent act2 = new Intent(view.getContext(),ScrollingTagus.class);
+                    startActivity(act2);
+                }
+            });
+            return rootView;
         }
     }
 
@@ -298,6 +329,21 @@ public class MainMenu extends AppCompatActivity {
             fragment.addTitle("Contacto");
             fragment.setImage(R.drawable.contacto);
             return fragment;
+        }
+        @Override
+        public View onCreateView(LayoutInflater inflater, ViewGroup container,
+                                 Bundle savedInstanceState) {
+            View rootView = super.onCreateView(inflater, container, savedInstanceState);
+            final ImageView switchact =(ImageView) rootView.findViewById(R.id.menuIcon);
+            switchact.setOnClickListener(new View.OnClickListener() {
+
+                @Override
+                public void onClick(View view) {
+                    Intent act2 = new Intent(view.getContext(),ScrollingContacto.class);
+                    startActivity(act2);
+                }
+            });
+            return rootView;
         }
     }
 }

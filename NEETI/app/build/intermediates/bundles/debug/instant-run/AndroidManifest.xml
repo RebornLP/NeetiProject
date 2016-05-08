@@ -37,6 +37,56 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="pt.ulisboa.tecnico.neeti.MainMenu" />
         </activity>
+        <activity
+            android:name="pt.ulisboa.tecnico.neeti.ScrollingCadeiras"
+            android:label="@string/title_activity_scrolling"
+            android:parentActivityName="pt.ulisboa.tecnico.neeti.MainMenu"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="pt.ulisboa.tecnico.neeti.MainMenu" />
+        </activity>
+        <activity
+            android:name="pt.ulisboa.tecnico.neeti.ScrollingRequisitos"
+            android:label="@string/title_activity_scrolling"
+            android:parentActivityName="pt.ulisboa.tecnico.neeti.MainMenu"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="pt.ulisboa.tecnico.neeti.MainMenu" />
+        </activity>
+        <activity
+            android:name="pt.ulisboa.tecnico.neeti.ScrollingEventos"
+            android:label="@string/title_activity_scrolling"
+            android:parentActivityName="pt.ulisboa.tecnico.neeti.MainMenu"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="pt.ulisboa.tecnico.neeti.MainMenu" />
+        </activity>
+        <activity
+            android:name="pt.ulisboa.tecnico.neeti.ScrollingTagus"
+            android:label="@string/title_activity_scrolling"
+            android:parentActivityName="pt.ulisboa.tecnico.neeti.MainMenu"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="pt.ulisboa.tecnico.neeti.MainMenu" />
+        </activity>
+        <activity
+            android:name="pt.ulisboa.tecnico.neeti.ScrollingContacto"
+            android:label="@string/title_activity_scrolling"
+            android:parentActivityName="pt.ulisboa.tecnico.neeti.MainMenu"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="pt.ulisboa.tecnico.neeti.MainMenu" />
+        </activity>
     </application>
 
 </manifest>
