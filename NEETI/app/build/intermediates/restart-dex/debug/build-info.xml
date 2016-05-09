@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="armeabi-v7a,armeabi"
+    abi="x86"
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="214544930509237" >
+    timestamp="215920310980438" >
 
     <task
         name="javac"
@@ -23,12 +23,12 @@
         location="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\res\resources-debug.ap_"
         type="RESOURCES" />
 
-    <build timestamp="214478218859526" >
+    <build timestamp="215766004168279" >
         <artifact
             location="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="214544930509237" >
+    <build timestamp="215920310980438" >
         <artifact
             location="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\res\resources-debug.ap_"
             type="RESOURCES" />
