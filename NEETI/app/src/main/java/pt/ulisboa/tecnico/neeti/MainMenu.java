@@ -18,6 +18,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 import android.widget.ImageView;
 import android.view.ViewGroup.LayoutParams;
 import java.util.Map;
@@ -157,6 +158,16 @@ public class MainMenu extends AppCompatActivity {
             return fragment;
         }
 
+        private void startButtons (View v) {
+            Button button= (Button) getActivity().findViewById(R.id.btn_neeti);
+            //button.setOnClickListener(new View.OnClickListener() {
+              //  @Override
+               // public void onClick(View v) {
+                //    System.out.println ("haro");
+                //}
+            //});
+        }
+
         @Override
         public View onCreateView(LayoutInflater inflater, ViewGroup container,
                                  Bundle savedInstanceState) {
@@ -166,6 +177,7 @@ public class MainMenu extends AppCompatActivity {
             textView.setGravity(Gravity.CENTER_HORIZONTAL);
             ImageView imageView = (ImageView) rootView.findViewById(R.id.menuIcon);
             imageView.setImageResource(getArguments().getInt(ARG_SECTION_IMG));
+            startButtons(rootView);
             return rootView;
         }
     }
@@ -190,8 +202,8 @@ public class MainMenu extends AppCompatActivity {
         }
 
         @Override
-        public View onCreateView(LayoutInflater inflater, ViewGroup container,
-                                Bundle savedInstanceState) {
+        public View onCreateView(LayoutInflater inflater, final ViewGroup container,
+                                 final Bundle savedInstanceState) {
             View rootView = super.onCreateView(inflater, container, savedInstanceState);
             final ImageView switchact =(ImageView) rootView.findViewById(R.id.menuIcon);
             switchact.setOnClickListener(new View.OnClickListener() {
