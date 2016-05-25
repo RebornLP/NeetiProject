@@ -586,10 +586,12 @@ int drawable design_snackbar_background 0x7f02004e
 int drawable eventos 0x7f02004f
 int drawable logo 0x7f020050
 int drawable neeti 0x7f020051
-int drawable notification_template_icon_bg 0x7f020055
+int drawable notification_template_icon_bg 0x7f020057
 int drawable requisitos 0x7f020052
-int drawable tagus 0x7f020053
-int drawable unknown 0x7f020054
+int drawable requisitos2 0x7f020053
+int drawable tagus 0x7f020054
+int drawable trequisitos 0x7f020055
+int drawable unknown 0x7f020056
 int id action0 0x7f0d0085
 int id action_bar 0x7f0d005a
 int id action_bar_activity_content 0x7f0d0000
