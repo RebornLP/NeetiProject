@@ -254,7 +254,7 @@ public class MainMenu extends AppCompatActivity {
         public static FragmentRequisitos newInstance() {
             FragmentRequisitos fragment = new FragmentRequisitos();
             fragment.addTitle("Requisitos");
-            fragment.setImage(R.drawable.unknown);
+            fragment.setImage(R.drawable.requisitos);
             return fragment;
         }
         @Override
@@ -310,7 +310,7 @@ public class MainMenu extends AppCompatActivity {
         public static FragmentTagus newInstance() {
             FragmentTagus fragment = new FragmentTagus();
             fragment.addTitle("Tagus");
-            fragment.setImage(R.drawable.unknown);
+            fragment.setImage(R.drawable.tagus);
             return fragment;
         }
         @Override
