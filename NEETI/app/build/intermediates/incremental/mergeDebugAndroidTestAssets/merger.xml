@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\src\androidTest\assets"/><source path="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\generated\assets\shaders\androidTest\debug"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/home/pedro/Desktop/PPA/NeetiProject/NEETI/app/src/androidTest/assets"/><source path="/home/pedro/Desktop/PPA/NeetiProject/NEETI/app/build/generated/assets/shaders/androidTest/debug"/></dataSet></merger>

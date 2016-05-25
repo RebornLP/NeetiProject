@@ -25,7 +25,6 @@
             android:adjustViewBounds="true"
             android:src="@drawable/unknown"
             android:contentDescription="@string/icon_description"
-            android:layout_gravity="top|center_horizontal"
             android:clickable="false" />
 
         <TextView

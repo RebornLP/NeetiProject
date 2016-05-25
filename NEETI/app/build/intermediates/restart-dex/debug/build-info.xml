@@ -2,9 +2,9 @@
 <instant-run
     abi="x86"
     api-level="23"
-    density="xxhdpi"
+    density="420dpi"
     format="7"
-    timestamp="215920310980438" >
+    timestamp="7944536167811" >
 
     <task
         name="javac"
@@ -20,17 +20,22 @@
         duration="0" />
 
     <artifact
-        location="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\res\resources-debug.ap_"
+        location="/home/pedro/Desktop/PPA/NeetiProject/NEETI/app/build/intermediates/res/resources-debug.ap_"
         type="RESOURCES" />
 
-    <build timestamp="215766004168279" >
+    <build timestamp="7653435998909" >
         <artifact
-            location="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\outputs\apk\app-debug.apk"
+            location="/home/pedro/Desktop/PPA/NeetiProject/NEETI/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="215920310980438" >
+    <build timestamp="7791289513712" >
         <artifact
-            location="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\res\resources-debug.ap_"
+            location="/home/pedro/Desktop/PPA/NeetiProject/NEETI/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="7944536167811" >
+        <artifact
+            location="/home/pedro/Desktop/PPA/NeetiProject/NEETI/app/build/intermediates/res/resources-debug.ap_"
             type="RESOURCES" />
     </build>
 

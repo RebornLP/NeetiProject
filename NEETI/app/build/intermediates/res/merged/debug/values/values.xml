@@ -326,6 +326,7 @@
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
     <string name="icon_description">Icon of Frame</string>
+    <string name="large_text_Requisitos">Provas de Ingresso Matemática A + Física e Química  Classificações Mínimas Classificação mínima de 10.0 valores (100 pontos) em cada prova de ingresso.  Classificação mínima de 12.0 valores (120 pontos) para a nota de candidatura, calculada com pesos de 50%, quer para a classificação final do ensino secundário, quer para as provas de ingresso (disciplinas específicas).  Vagas Iniciais: 55</string>
     <string name="large_text_contacto">
         "Para contactos de qualquer espécie, o nosso email é: geral@neeti.tecnico.ulisboa.pt"
         "\n\nTambém estamos sempre à disposição na sala 1.9 do Campus do Taguspark do IST."
@@ -355,6 +356,7 @@
     <string name="large_text_tagus">
         "Texto para o tagus ..."
     </string>
+    <string name="large_text_taguspark">Campus Taguspark Este moderno campus, inaugurado em 2001, situa-se no concelho de Oeiras, e está inserido no Parque de Ciência e Tecnologia TagusPark, um dos mais importantes polos tecnológicos do País, sobretudo na área das tecnologias de informação e comunicação  O campus está ligado à Alameda através de transporte próprio, com paragens em vários pontos da cidade de Lisboa. Neste campus está também localizada a Residência de Estudantes Prof. Ramôa Ribeiro.  O importante património natural e ambiental da região e a proximidade do mar proporcionam uma vivência extraordinariamente rica aos estudantes do campus.</string>
     <string name="neeti_full">Núcleo de Estudantes de Engenharia de Telecomunicações e Informática</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="title_activity_scrolling">ScrollingActivity</string>
