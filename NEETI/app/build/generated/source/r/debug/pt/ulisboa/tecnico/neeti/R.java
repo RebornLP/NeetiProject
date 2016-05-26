@@ -2285,12 +2285,10 @@ containing a value of this type.
         public static final int eventos=0x7f02004f;
         public static final int logo=0x7f020050;
         public static final int neeti=0x7f020051;
-        public static final int notification_template_icon_bg=0x7f020057;
+        public static final int notification_template_icon_bg=0x7f020055;
         public static final int requisitos=0x7f020052;
-        public static final int requisitos2=0x7f020053;
-        public static final int tagus=0x7f020054;
-        public static final int trequisitos=0x7f020055;
-        public static final int unknown=0x7f020056;
+        public static final int tagus=0x7f020053;
+        public static final int unknown=0x7f020054;
     }
     public static final class id {
         public static final int action0=0x7f0d0085;

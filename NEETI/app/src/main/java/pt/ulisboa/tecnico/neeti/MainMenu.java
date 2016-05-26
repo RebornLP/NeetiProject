@@ -75,6 +75,7 @@ public class MainMenu extends AppCompatActivity {
 
         public SectionsPagerAdapter(FragmentManager fm) {
             super(fm);
+            startButtons();
         }
 
         @Override
@@ -122,6 +123,52 @@ public class MainMenu extends AppCompatActivity {
         }
 
 
+        private void startButtons () {
+            Button button = (Button) findViewById(R.id.btn_neeti);
+            button.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    mViewPager.setCurrentItem(0,true);
+                }
+            });
+            button = (Button) findViewById(R.id.btn_cadeiras);
+            button.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    mViewPager.setCurrentItem(1,true);
+                }
+            });
+            button = (Button) findViewById(R.id.btn_requisitos);
+            button.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    mViewPager.setCurrentItem(2,true);
+                }
+            });
+            button = (Button) findViewById(R.id.btn_eventos);
+            button.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    mViewPager.setCurrentItem(3,true);
+                }
+            });
+            button = (Button) findViewById(R.id.btn_tagus);
+            button.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    mViewPager.setCurrentItem(4,true);
+                }
+            });
+            button = (Button) findViewById(R.id.btn_contacto);
+            button.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    mViewPager.setCurrentItem(5,true);
+                }
+            });
+        }
+
+
     }
 
 
@@ -158,15 +205,7 @@ public class MainMenu extends AppCompatActivity {
             return fragment;
         }
 
-        private void startButtons (View v) {
-            Button button= (Button) getActivity().findViewById(R.id.btn_neeti);
-            //button.setOnClickListener(new View.OnClickListener() {
-              //  @Override
-               // public void onClick(View v) {
-                //    System.out.println ("haro");
-                //}
-            //});
-        }
+
 
         @Override
         public View onCreateView(LayoutInflater inflater, ViewGroup container,
@@ -177,7 +216,6 @@ public class MainMenu extends AppCompatActivity {
             textView.setGravity(Gravity.CENTER_HORIZONTAL);
             ImageView imageView = (ImageView) rootView.findViewById(R.id.menuIcon);
             imageView.setImageResource(getArguments().getInt(ARG_SECTION_IMG));
-            startButtons(rootView);
             return rootView;
         }
     }
