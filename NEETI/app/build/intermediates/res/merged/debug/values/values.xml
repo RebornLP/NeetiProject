@@ -320,43 +320,52 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <string name="action_settings">Settings</string>
     <string name="app_name">NEETI</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
     <string name="icon_description">Icon of Frame</string>
-    <string name="large_text_Requisitos">Provas de Ingresso Matemática A + Física e Química  Classificações Mínimas Classificação mínima de 10.0 valores (100 pontos) em cada prova de ingresso.  Classificação mínima de 12.0 valores (120 pontos) para a nota de candidatura, calculada com pesos de 50%, quer para a classificação final do ensino secundário, quer para as provas de ingresso (disciplinas específicas).  Vagas Iniciais: 55</string>
-    <string name="large_text_contacto">
-        "Para contactos de qualquer espécie, o nosso email é: geral@neeti.tecnico.ulisboa.pt"
-        "\n\nTambém estamos sempre à disposição na sala 1.9 do Campus do Taguspark do IST."
-        "\nAv. Prof. Doutor Cavaco Silva, 2744-016 Porto Salvo"
-        "\nTelefone: +351 214 233 547"
-        "\nExtensão: 5147"
+    <string name="large_text_Requisitos"><b>Provas de Ingresso:</b>\n
+        \t- Matemática A;\n\t- Física e Química.\n\n
+        <b>Classificações Mínimas:</b>\n\t- Classificação mínima de 10.0 valores (100 pontos) em cada prova de ingresso.
+        \n\t- Classificação mínima de 12.0 valores (120 pontos) para a nota de candidatura, calculada com pesos de
+        50%, quer para a classificação final do ensino secundário, quer para as provas de ingresso (disciplinas específicas).
+        \n\n<b>Vagas Iniciais:</b> 55\n\n
+    </string>
+    <string name="large_text_contacto">Para contactos de qualquer espécie, o nosso email é
+        <font color="blue"><a href="geral@neeti.tecnico.ulisboa.pt">geral@neeti.tecnico.ulisboa.pt</a></font>
+        \n\nTambém estamos sempre à disposição na sala 1.9 do Campus do Taguspark do IST.
+        \nAv. Prof. Doutor Cavaco Silva, 2744-016 Porto Salvo
+        \n\nTelefone: <font color="blue"><a href="+351214233547">+351 214 233 547</a></font>
+        \nExtensão: 5147
     </string>
     <string name="large_text_eventos">
-        "Texto para eventos ..."
+        "To be developed ..."
     </string>
     <string name="large_text_neeti">
-        "\"A Engenharia da Internet\" é assim que pode ser conhecida a Engenharia de Telecomunicações e Informática,"
-        "um curso recente, mas um dos cursos mais importantes num futuro próximo, onde o mundo gira à volta da internet."
-        "Com a chegada da “Internet of things” (um mundo onde tudo o que nos rodeia, está ligado à rede) e com a utilização"
-        "que existe atualmente dos telemóveis, a importância dos engenheiros de redes é cada vez maior e são precisos cada vez mais."
-        "\n\nSituados no Polo Tecnológico do Taguspark, em Oeiras, a Licenciatura em Engenharia de Telecomunicações e Informática do"
-        "Instituto Superior Técnico é o Curso onde se juntam a Informática, a Eletrotecnia e as Telecomunicações, três áreas que"
-        "até aqui não se cruzavam, são agora essenciais juntas para o futuro e o desenvolvimento da Internet."
-        "\n\nSendo um dos poucos cursos do país com 100% de empregabilidade na área, as principais saídas para um Engenheiro de ETI"
-        "são a gestão e o planeamento redes de telecomunicações, a programação de aplicações móveis, multimédia e na cloud,"
-        "a arquitetura de redes de computadores, a projeção e gestão de sistemas de informação e bases de dados para a web,"
-        "entre outras.\n\n"
+        \"A Engenharia da Internet\" é assim que pode ser conhecida a Engenharia de Telecomunicações e Informática,
+        um curso recente, mas um dos cursos mais importantes num futuro próximo, onde o mundo gira à volta da internet.
+        Com a chegada da “Internet of things” (um mundo onde tudo o que nos rodeia, está ligado à rede) e com a utilização
+        que existe atualmente dos telemóveis, a importância dos engenheiros de redes é cada vez maior e são precisos cada vez mais.
+        \n\nSituados no Polo Tecnológico do Taguspark, em Oeiras, a Licenciatura em Engenharia de Telecomunicações e Informática do
+        Instituto Superior Técnico é o Curso onde se juntam a Informática, a Eletrotecnia e as Telecomunicações, três áreas que
+        até aqui não se cruzavam, são agora essenciais juntas para o futuro e o desenvolvimento da Internet.
+        \n\nSendo um dos poucos cursos do país com 100% de empregabilidade na área, as principais saídas para um Engenheiro de ETI
+        são a gestão e o planeamento redes de telecomunicações, a programação de aplicações móveis, multimédia e na cloud,
+        a arquitetura de redes de computadores, a projeção e gestão de sistemas de informação e bases de dados para a web,
+        entre outras.\n\n
     </string>
-    <string name="large_text_requisitos">
-        "Texto para requisitos ..."
+    <string name="large_text_tagus_1">Este moderno campus, inaugurado em 2001, situa-se no concelho de Oeiras,
+        e está inserido no Parque de Ciência e Tecnologia TagusPark, um dos mais importantes polos
+        tecnológicos do País, sobretudo na área das tecnologias de informação e comunicação.
     </string>
-    <string name="large_text_tagus">
-        "Texto para o tagus ..."
+    <string name="large_text_tagus_2">O campus está ligado à Alameda através de transporte próprio,
+        com paragens em vários pontos da cidade de Lisboa.
+        \n\nNeste campus está também localizada a Residência de Estudantes Prof. Ramôa Ribeiro.
+        \n\nO importante património
+        natural e ambiental da região e a proximidade do mar proporcionam uma vivência extraordinariamente rica aos
+        estudantes do campus.
     </string>
-    <string name="large_text_taguspark">Campus Taguspark Este moderno campus, inaugurado em 2001, situa-se no concelho de Oeiras, e está inserido no Parque de Ciência e Tecnologia TagusPark, um dos mais importantes polos tecnológicos do País, sobretudo na área das tecnologias de informação e comunicação  O campus está ligado à Alameda através de transporte próprio, com paragens em vários pontos da cidade de Lisboa. Neste campus está também localizada a Residência de Estudantes Prof. Ramôa Ribeiro.  O importante património natural e ambiental da região e a proximidade do mar proporcionam uma vivência extraordinariamente rica aos estudantes do campus.</string>
     <string name="neeti_full">Núcleo de Estudantes de Engenharia de Telecomunicações e Informática</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="title_activity_scrolling">ScrollingActivity</string>

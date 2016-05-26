@@ -1,0 +1,5 @@
+CHANGED,C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\design\R$string$override.class
+CHANGED,C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\pt\ulisboa\tecnico\neeti\R$string$override.class
+CHANGED,C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\pt\ulisboa\tecnico\neeti\R$style$override.class
+CHANGED,C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\pt\ulisboa\tecnico\neeti\R$styleable$override.class
+CHANGED,C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
