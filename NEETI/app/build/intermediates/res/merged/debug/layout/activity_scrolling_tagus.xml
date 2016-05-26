@@ -42,10 +42,12 @@
             android:orientation="vertical">
 
             <ImageView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
                 android:adjustViewBounds="true"
-                android:src="@drawable/img2" />
+                android:src="@drawable/img2"
+                android:layout_gravity="center_horizontal"
+                android:paddingRight="-1dp" />
             <TextView
                 android:id="@+id/page_text_neeti_1"
                 android:layout_width="wrap_content"

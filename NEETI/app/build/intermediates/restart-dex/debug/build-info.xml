@@ -4,7 +4,7 @@
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="141559122064950" >
+    timestamp="143498885076507" >
 
     <task
         name="javac"
@@ -23,12 +23,12 @@
         location="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\res\resources-debug.ap_"
         type="RESOURCES" />
 
-    <build timestamp="141529004995941" >
+    <build timestamp="142071852482390" >
         <artifact
             location="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="141559122064950" >
+    <build timestamp="143498885076507" >
         <artifact
             location="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\res\resources-debug.ap_"
             type="RESOURCES" />

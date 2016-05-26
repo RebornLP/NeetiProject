@@ -6,6 +6,11 @@
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
     tools:context="pt.ulisboa.tecnico.neeti.ScrollingActivity">
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
 
     <android.support.design.widget.AppBarLayout
         android:id="@+id/app_bar"
@@ -39,9 +44,11 @@
             android:id="@+id/page_text_neeti"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:state_selected="true"
             android:layout_margin="@dimen/text_margin"
             android:text="@string/large_text_contacto" />
 
     </android.support.v4.widget.NestedScrollView>
+    </LinearLayout>
 
 </android.support.design.widget.CoordinatorLayout>

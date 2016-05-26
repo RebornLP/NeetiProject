@@ -39,6 +39,7 @@
             android:id="@+id/page_text_neeti"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:state_selected="true"
             android:layout_margin="@dimen/text_margin"
             android:text="@string/large_text_contacto" />
 
