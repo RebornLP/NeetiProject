@@ -3,73 +3,59 @@
 
     <item
         jar="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         revision="23.0.2"
         sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
-        <dex dex="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_12091b308df5d4a95bb65db48b01077099afbc8b\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="7ddfaae4dad3103f5a7c315317dbf64958909b2d">
-        <dex dex="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_693a9dc0209e8d4d7db7bde2a922010889e5bbc8\classes.dex" />
+        <dex dex="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_12091b308df5d4a95bb65db48b01077099afbc8b.jar" />
     </item>
     <item
         jar="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         revision="23.0.2"
         sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
-        <dex dex="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.3.0_33d7f5a3dd5cbb21701387c3437e9a4b527ce669\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="13d61bfebea0859d4e08c5ef020ffd29265732e9">
-        <dex dex="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0684e82a55fe8a65e064a32f865cb39d1e7e149c\classes.dex" />
+        <dex dex="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.3.0_33d7f5a3dd5cbb21701387c3437e9a4b527ce669.jar" />
     </item>
     <item
         jar="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         revision="23.0.2"
         sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
-        <dex dex="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_5deb81ad155561a5f5fc601e1b34b93135680528\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
-        <dex dex="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_6b92c22136c3b1716d8cdf8e46c2fa2b75429b7a\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="debf30ce0a7560396b6235edef77e447006454c2">
-        <dex dex="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.3.0_8fb97f523a1efe5938eb839f2450d4835bfb73e7\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
-        <dex dex="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_e2c4a707947206f1128b1d00ffa51fb4f95eac5e\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
-        <dex dex="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_ca6628764f8d83c97724add2160c6c8b454ebbd7\classes.dex" />
+        <dex dex="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_5deb81ad155561a5f5fc601e1b34b93135680528.jar" />
     </item>
     <item
         jar="C:\Users\luisrafael1995\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
-        jumboMode="true"
+        jumboMode="false"
         revision="23.0.2"
         sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
-        <dex dex="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_137d5a03331218fe9ecad7abe74024c1a8c22d5d\classes.dex" />
+        <dex dex="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_137d5a03331218fe9ecad7abe74024c1a8c22d5d.jar" />
+    </item>
+    <item
+        jar="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_6b92c22136c3b1716d8cdf8e46c2fa2b75429b7a.jar" />
+    </item>
+    <item
+        jar="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.3.0_8fb97f523a1efe5938eb839f2450d4835bfb73e7.jar" />
+    </item>
+    <item
+        jar="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_e2c4a707947206f1128b1d00ffa51fb4f95eac5e.jar" />
+    </item>
+    <item
+        jar="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_ca6628764f8d83c97724add2160c6c8b454ebbd7.jar" />
     </item>
 
 </items>

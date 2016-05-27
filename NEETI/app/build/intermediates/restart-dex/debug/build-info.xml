@@ -4,34 +4,29 @@
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="143498885076507" >
+    timestamp="284160475354270" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="314" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="341" />
     <task
         name="verifier"
-        duration="0" />
+        duration="98" />
 
     <artifact
-        location="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\res\resources-debug.ap_"
-        type="RESOURCES" />
+        location="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
 
-    <build timestamp="142071852482390" >
+    <build timestamp="284160475354270" >
         <artifact
             location="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
-    </build>
-    <build timestamp="143498885076507" >
-        <artifact
-            location="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\res\resources-debug.ap_"
-            type="RESOURCES" />
     </build>
 
 </instant-run>
