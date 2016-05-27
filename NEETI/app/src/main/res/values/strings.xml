@@ -61,12 +61,16 @@
     <string name="large_text_eventos">
         "To be developed ..."
     </string>
-    <string name="large_text_contacto">Para contactos de qualquer espécie, o nosso email é:
-        <font color="blue"><a href="geral@neeti.tecnico.ulisboa.pt">geral@neeti.tecnico.ulisboa.pt</a></font>
-        \n\nTambém estamos sempre à disposição na sala 1.9 do Campus do Taguspark do IST.
+    <string name="large_text_contacto1">
+        Para contactos de qualquer espécie, o nosso email é: geral@neeti.tecnico.ulisboa.pt
+    </string>
+    <string name="large_text_contacto3">
+        Também estamos sempre à disposição na sala 1.9 do Campus do Taguspark do IST.
         \nAv. Prof. Doutor Cavaco Silva, 2744-016 Porto Salvo
-        \n\nTelefone: <font color="blue"><a href="+351214233547">+351 214 233 547</a></font>
-        \nExtensão: 5147
+
+    </string>
+    <string name="large_text_contacto4">
+        Telefone: +351 214 233 547\nExtensão: 5147
     </string>
     <string name="large_text_Requisitos"><b>Provas de Ingresso:</b>\n
         \t- Matemática A;\n\t- Física e Química.\n\n
