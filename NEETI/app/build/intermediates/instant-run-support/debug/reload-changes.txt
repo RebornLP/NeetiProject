@@ -1,3 +1,5 @@
-CHANGED,C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\pt\ulisboa\tecnico\neeti\SplashActivity$override.class
+CHANGED,C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\pt\ulisboa\tecnico\neeti\R$style$override.class
+CHANGED,C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$style$override.class
+CHANGED,C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\pt\ulisboa\tecnico\neeti\R$styleable$override.class
 CHANGED,C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
-CHANGED,C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\pt\ulisboa\tecnico\neeti\SplashActivity$1$override.class
+CHANGED,C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\design\R$style$override.class

@@ -23,18 +23,18 @@
         <dex dex="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.3.0_33d7f5a3dd5cbb21701387c3437e9a4b527ce669.jar" />
     </item>
     <item
-        jar="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
-        <dex dex="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_6b92c22136c3b1716d8cdf8e46c2fa2b75429b7a.jar" />
-    </item>
-    <item
         jar="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="debf30ce0a7560396b6235edef77e447006454c2">
         <dex dex="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.3.0_8fb97f523a1efe5938eb839f2450d4835bfb73e7.jar" />
+    </item>
+    <item
+        jar="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_6b92c22136c3b1716d8cdf8e46c2fa2b75429b7a.jar" />
     </item>
     <item
         jar="C:\Users\luisrafael1995\Desktop\NeetiProject\NEETI\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"

@@ -96,12 +96,12 @@
         "source": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_item_background_holo_light.xml"
-    },
-    {
         "merged": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash1.png",
         "source": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\src\\main\\res\\drawable\\splash1.png"
+    },
+    {
+        "merged": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
         "merged": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
@@ -140,12 +140,12 @@
         "source": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
-    },
-    {
         "merged": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
         "source": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
         "merged": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",

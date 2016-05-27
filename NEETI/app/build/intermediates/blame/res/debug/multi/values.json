@@ -5126,68 +5126,29 @@
                     "startLine": 1503,
                     "startColumn": 4,
                     "startOffset": 117387,
-                    "endColumn": 83,
-                    "endOffset": 117466
+                    "endLine": 1507,
+                    "endColumn": 12,
+                    "endOffset": 117641
                 },
                 "from": {
-                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1504,
-                    "startColumn": 4,
-                    "startOffset": 117471,
-                    "endColumn": 95,
-                    "endOffset": 117562
-                },
-                "from": {
-                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1505,
-                    "startColumn": 4,
-                    "startOffset": 117567,
-                    "endColumn": 95,
-                    "endOffset": 117658
-                },
-                "from": {
-                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1506,
-                    "startColumn": 4,
-                    "startOffset": 117663,
-                    "endColumn": 97,
-                    "endOffset": 117756
-                },
-                "from": {
-                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1507,
-                    "startColumn": 4,
-                    "startOffset": 117761,
-                    "endColumn": 99,
-                    "endOffset": 117856
-                },
-                "from": {
-                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
+                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 658,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 916
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 1508,
                     "startColumn": 4,
-                    "startOffset": 117861,
-                    "endColumn": 101,
-                    "endOffset": 117958
+                    "startOffset": 117646,
+                    "endColumn": 83,
+                    "endOffset": 117725
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5197,9 +5158,9 @@
                 "to": {
                     "startLine": 1509,
                     "startColumn": 4,
-                    "startOffset": 117963,
-                    "endColumn": 101,
-                    "endOffset": 118060
+                    "startOffset": 117730,
+                    "endColumn": 95,
+                    "endOffset": 117821
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5209,9 +5170,9 @@
                 "to": {
                     "startLine": 1510,
                     "startColumn": 4,
-                    "startOffset": 118065,
-                    "endColumn": 101,
-                    "endOffset": 118162
+                    "startOffset": 117826,
+                    "endColumn": 95,
+                    "endOffset": 117917
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5221,9 +5182,9 @@
                 "to": {
                     "startLine": 1511,
                     "startColumn": 4,
-                    "startOffset": 118167,
-                    "endColumn": 101,
-                    "endOffset": 118264
+                    "startOffset": 117922,
+                    "endColumn": 97,
+                    "endOffset": 118015
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5233,9 +5194,9 @@
                 "to": {
                     "startLine": 1512,
                     "startColumn": 4,
-                    "startOffset": 118269,
-                    "endColumn": 101,
-                    "endOffset": 118366
+                    "startOffset": 118020,
+                    "endColumn": 99,
+                    "endOffset": 118115
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5245,9 +5206,9 @@
                 "to": {
                     "startLine": 1513,
                     "startColumn": 4,
-                    "startOffset": 118371,
-                    "endColumn": 99,
-                    "endOffset": 118466
+                    "startOffset": 118120,
+                    "endColumn": 101,
+                    "endOffset": 118217
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5257,9 +5218,9 @@
                 "to": {
                     "startLine": 1514,
                     "startColumn": 4,
-                    "startOffset": 118471,
-                    "endColumn": 95,
-                    "endOffset": 118562
+                    "startOffset": 118222,
+                    "endColumn": 101,
+                    "endOffset": 118319
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5269,9 +5230,9 @@
                 "to": {
                     "startLine": 1515,
                     "startColumn": 4,
-                    "startOffset": 118567,
-                    "endColumn": 111,
-                    "endOffset": 118674
+                    "startOffset": 118324,
+                    "endColumn": 101,
+                    "endOffset": 118421
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5281,9 +5242,9 @@
                 "to": {
                     "startLine": 1516,
                     "startColumn": 4,
-                    "startOffset": 118679,
-                    "endColumn": 128,
-                    "endOffset": 118803
+                    "startOffset": 118426,
+                    "endColumn": 101,
+                    "endOffset": 118523
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5293,9 +5254,9 @@
                 "to": {
                     "startLine": 1517,
                     "startColumn": 4,
-                    "startOffset": 118808,
-                    "endColumn": 122,
-                    "endOffset": 118926
+                    "startOffset": 118528,
+                    "endColumn": 101,
+                    "endOffset": 118625
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5305,10 +5266,21 @@
                 "to": {
                     "startLine": 1518,
                     "startColumn": 4,
-                    "startOffset": 118931,
-                    "endLine": 1519,
-                    "endColumn": 12,
-                    "endOffset": 119080
+                    "startOffset": 118630,
+                    "endColumn": 99,
+                    "endOffset": 118725
+                },
+                "from": {
+                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1519,
+                    "startColumn": 4,
+                    "startOffset": 118730,
+                    "endColumn": 95,
+                    "endOffset": 118821
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5318,10 +5290,21 @@
                 "to": {
                     "startLine": 1520,
                     "startColumn": 4,
-                    "startOffset": 119085,
-                    "endLine": 1521,
-                    "endColumn": 12,
-                    "endOffset": 119234
+                    "startOffset": 118826,
+                    "endColumn": 111,
+                    "endOffset": 118933
+                },
+                "from": {
+                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1521,
+                    "startColumn": 4,
+                    "startOffset": 118938,
+                    "endColumn": 128,
+                    "endOffset": 119062
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5331,9 +5314,9 @@
                 "to": {
                     "startLine": 1522,
                     "startColumn": 4,
-                    "startOffset": 119239,
-                    "endColumn": 97,
-                    "endOffset": 119332
+                    "startOffset": 119067,
+                    "endColumn": 122,
+                    "endOffset": 119185
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5343,21 +5326,10 @@
                 "to": {
                     "startLine": 1523,
                     "startColumn": 4,
-                    "startOffset": 119337,
-                    "endColumn": 113,
-                    "endOffset": 119446
-                },
-                "from": {
-                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1524,
-                    "startColumn": 4,
-                    "startOffset": 119451,
-                    "endColumn": 93,
-                    "endOffset": 119540
+                    "startOffset": 119190,
+                    "endLine": 1524,
+                    "endColumn": 12,
+                    "endOffset": 119339
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5367,10 +5339,10 @@
                 "to": {
                     "startLine": 1525,
                     "startColumn": 4,
-                    "startOffset": 119545,
+                    "startOffset": 119344,
                     "endLine": 1526,
                     "endColumn": 12,
-                    "endOffset": 119680
+                    "endOffset": 119493
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5380,10 +5352,21 @@
                 "to": {
                     "startLine": 1527,
                     "startColumn": 4,
-                    "startOffset": 119685,
-                    "endLine": 1528,
-                    "endColumn": 12,
-                    "endOffset": 119814
+                    "startOffset": 119498,
+                    "endColumn": 97,
+                    "endOffset": 119591
+                },
+                "from": {
+                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1528,
+                    "startColumn": 4,
+                    "startOffset": 119596,
+                    "endColumn": 113,
+                    "endOffset": 119705
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5393,9 +5376,9 @@
                 "to": {
                     "startLine": 1529,
                     "startColumn": 4,
-                    "startOffset": 119819,
-                    "endColumn": 95,
-                    "endOffset": 119910
+                    "startOffset": 119710,
+                    "endColumn": 93,
+                    "endOffset": 119799
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5405,21 +5388,10 @@
                 "to": {
                     "startLine": 1530,
                     "startColumn": 4,
-                    "startOffset": 119915,
-                    "endColumn": 111,
-                    "endOffset": 120022
-                },
-                "from": {
-                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1531,
-                    "startColumn": 4,
-                    "startOffset": 120027,
-                    "endColumn": 99,
-                    "endOffset": 120122
+                    "startOffset": 119804,
+                    "endLine": 1531,
+                    "endColumn": 12,
+                    "endOffset": 119939
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5429,21 +5401,10 @@
                 "to": {
                     "startLine": 1532,
                     "startColumn": 4,
-                    "startOffset": 120127,
-                    "endColumn": 115,
-                    "endOffset": 120238
-                },
-                "from": {
-                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1533,
-                    "startColumn": 4,
-                    "startOffset": 120243,
-                    "endColumn": 95,
-                    "endOffset": 120334
+                    "startOffset": 119944,
+                    "endLine": 1533,
+                    "endColumn": 12,
+                    "endOffset": 120073
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5453,9 +5414,9 @@
                 "to": {
                     "startLine": 1534,
                     "startColumn": 4,
-                    "startOffset": 120339,
-                    "endColumn": 111,
-                    "endOffset": 120446
+                    "startOffset": 120078,
+                    "endColumn": 95,
+                    "endOffset": 120169
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5465,10 +5426,21 @@
                 "to": {
                     "startLine": 1535,
                     "startColumn": 4,
-                    "startOffset": 120451,
-                    "endLine": 1536,
-                    "endColumn": 12,
-                    "endOffset": 120586
+                    "startOffset": 120174,
+                    "endColumn": 111,
+                    "endOffset": 120281
+                },
+                "from": {
+                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1536,
+                    "startColumn": 4,
+                    "startOffset": 120286,
+                    "endColumn": 99,
+                    "endOffset": 120381
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5478,9 +5450,9 @@
                 "to": {
                     "startLine": 1537,
                     "startColumn": 4,
-                    "startOffset": 120591,
-                    "endColumn": 135,
-                    "endOffset": 120722
+                    "startOffset": 120386,
+                    "endColumn": 115,
+                    "endOffset": 120497
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5490,10 +5462,21 @@
                 "to": {
                     "startLine": 1538,
                     "startColumn": 4,
-                    "startOffset": 120727,
-                    "endLine": 1539,
-                    "endColumn": 12,
-                    "endOffset": 120886
+                    "startOffset": 120502,
+                    "endColumn": 95,
+                    "endOffset": 120593
+                },
+                "from": {
+                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1539,
+                    "startColumn": 4,
+                    "startOffset": 120598,
+                    "endColumn": 111,
+                    "endOffset": 120705
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5503,9 +5486,10 @@
                 "to": {
                     "startLine": 1540,
                     "startColumn": 4,
-                    "startOffset": 120891,
-                    "endColumn": 129,
-                    "endOffset": 121016
+                    "startOffset": 120710,
+                    "endLine": 1541,
+                    "endColumn": 12,
+                    "endOffset": 120845
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5513,12 +5497,11 @@
             },
             {
                 "to": {
-                    "startLine": 1541,
+                    "startLine": 1542,
                     "startColumn": 4,
-                    "startOffset": 121021,
-                    "endLine": 1542,
-                    "endColumn": 12,
-                    "endOffset": 121174
+                    "startOffset": 120850,
+                    "endColumn": 135,
+                    "endOffset": 120981
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5528,10 +5511,10 @@
                 "to": {
                     "startLine": 1543,
                     "startColumn": 4,
-                    "startOffset": 121179,
+                    "startOffset": 120986,
                     "endLine": 1544,
                     "endColumn": 12,
-                    "endOffset": 121324
+                    "endOffset": 121145
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5541,9 +5524,9 @@
                 "to": {
                     "startLine": 1545,
                     "startColumn": 4,
-                    "startOffset": 121329,
-                    "endColumn": 140,
-                    "endOffset": 121465
+                    "startOffset": 121150,
+                    "endColumn": 129,
+                    "endOffset": 121275
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5553,10 +5536,10 @@
                 "to": {
                     "startLine": 1546,
                     "startColumn": 4,
-                    "startOffset": 121470,
+                    "startOffset": 121280,
                     "endLine": 1547,
                     "endColumn": 12,
-                    "endOffset": 121609
+                    "endOffset": 121433
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5566,21 +5549,10 @@
                 "to": {
                     "startLine": 1548,
                     "startColumn": 4,
-                    "startOffset": 121614,
-                    "endColumn": 134,
-                    "endOffset": 121744
-                },
-                "from": {
-                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1549,
-                    "startColumn": 4,
-                    "startOffset": 121749,
-                    "endColumn": 111,
-                    "endOffset": 121856
+                    "startOffset": 121438,
+                    "endLine": 1549,
+                    "endColumn": 12,
+                    "endOffset": 121583
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5590,9 +5562,9 @@
                 "to": {
                     "startLine": 1550,
                     "startColumn": 4,
-                    "startOffset": 121861,
-                    "endColumn": 127,
-                    "endOffset": 121984
+                    "startOffset": 121588,
+                    "endColumn": 140,
+                    "endOffset": 121724
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5602,10 +5574,10 @@
                 "to": {
                     "startLine": 1551,
                     "startColumn": 4,
-                    "startOffset": 121989,
+                    "startOffset": 121729,
                     "endLine": 1552,
                     "endColumn": 12,
-                    "endOffset": 122120
+                    "endOffset": 121868
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5615,10 +5587,21 @@
                 "to": {
                     "startLine": 1553,
                     "startColumn": 4,
-                    "startOffset": 122125,
-                    "endLine": 1554,
-                    "endColumn": 12,
-                    "endOffset": 122262
+                    "startOffset": 121873,
+                    "endColumn": 134,
+                    "endOffset": 122003
+                },
+                "from": {
+                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1554,
+                    "startColumn": 4,
+                    "startOffset": 122008,
+                    "endColumn": 111,
+                    "endOffset": 122115
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5628,10 +5611,9 @@
                 "to": {
                     "startLine": 1555,
                     "startColumn": 4,
-                    "startOffset": 122267,
-                    "endLine": 1556,
-                    "endColumn": 12,
-                    "endOffset": 122404
+                    "startOffset": 122120,
+                    "endColumn": 127,
+                    "endOffset": 122243
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5639,11 +5621,12 @@
             },
             {
                 "to": {
-                    "startLine": 1557,
+                    "startLine": 1556,
                     "startColumn": 4,
-                    "startOffset": 122409,
-                    "endColumn": 111,
-                    "endOffset": 122516
+                    "startOffset": 122248,
+                    "endLine": 1557,
+                    "endColumn": 12,
+                    "endOffset": 122379
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5653,9 +5636,10 @@
                 "to": {
                     "startLine": 1558,
                     "startColumn": 4,
-                    "startOffset": 122521,
-                    "endColumn": 139,
-                    "endOffset": 122656
+                    "startOffset": 122384,
+                    "endLine": 1559,
+                    "endColumn": 12,
+                    "endOffset": 122521
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5663,37 +5647,49 @@
             },
             {
                 "to": {
-                    "startLine": 1559,
+                    "startLine": 1560,
                     "startColumn": 4,
-                    "startOffset": 122661,
+                    "startOffset": 122526,
                     "endLine": 1561,
                     "endColumn": 12,
-                    "endOffset": 122857
+                    "endOffset": 122663
                 },
                 "from": {
-                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"
+                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 1562,
                     "startColumn": 4,
-                    "startOffset": 122862,
-                    "endColumn": 91,
-                    "endOffset": 122949
+                    "startOffset": 122668,
+                    "endColumn": 111,
+                    "endOffset": 122775
                 },
                 "from": {
-                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"
+                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 1563,
                     "startColumn": 4,
-                    "startOffset": 122954,
-                    "endLine": 1565,
+                    "startOffset": 122780,
+                    "endColumn": 139,
+                    "endOffset": 122915
+                },
+                "from": {
+                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1564,
+                    "startColumn": 4,
+                    "startOffset": 122920,
+                    "endLine": 1566,
                     "endColumn": 12,
-                    "endOffset": 123129
+                    "endOffset": 123116
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"
@@ -5701,12 +5697,11 @@
             },
             {
                 "to": {
-                    "startLine": 1566,
+                    "startLine": 1567,
                     "startColumn": 4,
-                    "startOffset": 123134,
-                    "endLine": 1568,
-                    "endColumn": 12,
-                    "endOffset": 123298
+                    "startOffset": 123121,
+                    "endColumn": 91,
+                    "endOffset": 123208
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"
@@ -5714,12 +5709,12 @@
             },
             {
                 "to": {
-                    "startLine": 1569,
+                    "startLine": 1568,
                     "startColumn": 4,
-                    "startOffset": 123303,
-                    "endLine": 1571,
+                    "startOffset": 123213,
+                    "endLine": 1570,
                     "endColumn": 12,
-                    "endOffset": 123473
+                    "endOffset": 123388
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"
@@ -5727,12 +5722,12 @@
             },
             {
                 "to": {
-                    "startLine": 1572,
+                    "startLine": 1571,
                     "startColumn": 4,
-                    "startOffset": 123478,
-                    "endLine": 1575,
+                    "startOffset": 123393,
+                    "endLine": 1573,
                     "endColumn": 12,
-                    "endOffset": 123726
+                    "endOffset": 123557
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"
@@ -5740,12 +5735,25 @@
             },
             {
                 "to": {
-                    "startLine": 1576,
+                    "startLine": 1574,
                     "startColumn": 4,
-                    "startOffset": 123731,
+                    "startOffset": 123562,
+                    "endLine": 1576,
+                    "endColumn": 12,
+                    "endOffset": 123732
+                },
+                "from": {
+                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1577,
+                    "startColumn": 4,
+                    "startOffset": 123737,
                     "endLine": 1580,
                     "endColumn": 12,
-                    "endOffset": 124017
+                    "endOffset": 123985
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"
@@ -5755,70 +5763,34 @@
                 "to": {
                     "startLine": 1581,
                     "startColumn": 4,
-                    "startOffset": 124022,
-                    "endColumn": 67,
-                    "endOffset": 124085
+                    "startOffset": 123990,
+                    "endLine": 1585,
+                    "endColumn": 12,
+                    "endOffset": 124276
                 },
                 "from": {
-                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1582,
-                    "startColumn": 4,
-                    "startOffset": 124090,
-                    "endColumn": 72,
-                    "endOffset": 124158
-                },
-                "from": {
-                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1583,
-                    "startColumn": 4,
-                    "startOffset": 124163,
-                    "endColumn": 73,
-                    "endOffset": 124232
-                },
-                "from": {
-                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1584,
-                    "startColumn": 4,
-                    "startOffset": 124237,
-                    "endColumn": 72,
-                    "endOffset": 124305
-                },
-                "from": {
-                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1585,
-                    "startColumn": 4,
-                    "startOffset": 124310,
-                    "endColumn": 73,
-                    "endOffset": 124379
-                },
-                "from": {
-                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
+                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 1586,
                     "startColumn": 4,
-                    "startOffset": 124384,
-                    "endLine": 1587,
-                    "endColumn": 12,
-                    "endOffset": 124525
+                    "startOffset": 124281,
+                    "endColumn": 67,
+                    "endOffset": 124344
+                },
+                "from": {
+                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1587,
+                    "startColumn": 4,
+                    "startOffset": 124349,
+                    "endColumn": 72,
+                    "endOffset": 124417
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5828,10 +5800,21 @@
                 "to": {
                     "startLine": 1588,
                     "startColumn": 4,
-                    "startOffset": 124530,
-                    "endLine": 1589,
-                    "endColumn": 12,
-                    "endOffset": 124669
+                    "startOffset": 124422,
+                    "endColumn": 73,
+                    "endOffset": 124491
+                },
+                "from": {
+                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1589,
+                    "startColumn": 4,
+                    "startOffset": 124496,
+                    "endColumn": 72,
+                    "endOffset": 124564
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5841,10 +5824,9 @@
                 "to": {
                     "startLine": 1590,
                     "startColumn": 4,
-                    "startOffset": 124674,
-                    "endLine": 1591,
-                    "endColumn": 12,
-                    "endOffset": 124807
+                    "startOffset": 124569,
+                    "endColumn": 73,
+                    "endOffset": 124638
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5852,11 +5834,12 @@
             },
             {
                 "to": {
-                    "startLine": 1592,
+                    "startLine": 1591,
                     "startColumn": 4,
-                    "startOffset": 124812,
-                    "endColumn": 65,
-                    "endOffset": 124873
+                    "startOffset": 124643,
+                    "endLine": 1592,
+                    "endColumn": 12,
+                    "endOffset": 124784
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5866,21 +5849,10 @@
                 "to": {
                     "startLine": 1593,
                     "startColumn": 4,
-                    "startOffset": 124878,
-                    "endColumn": 89,
-                    "endOffset": 124963
-                },
-                "from": {
-                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1594,
-                    "startColumn": 4,
-                    "startOffset": 124968,
-                    "endColumn": 75,
-                    "endOffset": 125039
+                    "startOffset": 124789,
+                    "endLine": 1594,
+                    "endColumn": 12,
+                    "endOffset": 124928
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5890,21 +5862,10 @@
                 "to": {
                     "startLine": 1595,
                     "startColumn": 4,
-                    "startOffset": 125044,
-                    "endColumn": 103,
-                    "endOffset": 125143
-                },
-                "from": {
-                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1596,
-                    "startColumn": 4,
-                    "startOffset": 125148,
-                    "endColumn": 89,
-                    "endOffset": 125233
+                    "startOffset": 124933,
+                    "endLine": 1596,
+                    "endColumn": 12,
+                    "endOffset": 125066
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5914,9 +5875,9 @@
                 "to": {
                     "startLine": 1597,
                     "startColumn": 4,
-                    "startOffset": 125238,
-                    "endColumn": 101,
-                    "endOffset": 125335
+                    "startOffset": 125071,
+                    "endColumn": 65,
+                    "endOffset": 125132
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5926,9 +5887,9 @@
                 "to": {
                     "startLine": 1598,
                     "startColumn": 4,
-                    "startOffset": 125340,
-                    "endColumn": 107,
-                    "endOffset": 125443
+                    "startOffset": 125137,
+                    "endColumn": 89,
+                    "endOffset": 125222
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5938,9 +5899,9 @@
                 "to": {
                     "startLine": 1599,
                     "startColumn": 4,
-                    "startOffset": 125448,
-                    "endColumn": 107,
-                    "endOffset": 125551
+                    "startOffset": 125227,
+                    "endColumn": 75,
+                    "endOffset": 125298
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5950,9 +5911,9 @@
                 "to": {
                     "startLine": 1600,
                     "startColumn": 4,
-                    "startOffset": 125556,
-                    "endColumn": 99,
-                    "endOffset": 125651
+                    "startOffset": 125303,
+                    "endColumn": 103,
+                    "endOffset": 125402
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5962,9 +5923,9 @@
                 "to": {
                     "startLine": 1601,
                     "startColumn": 4,
-                    "startOffset": 125656,
-                    "endColumn": 79,
-                    "endOffset": 125731
+                    "startOffset": 125407,
+                    "endColumn": 89,
+                    "endOffset": 125492
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5974,9 +5935,9 @@
                 "to": {
                     "startLine": 1602,
                     "startColumn": 4,
-                    "startOffset": 125736,
-                    "endColumn": 91,
-                    "endOffset": 125823
+                    "startOffset": 125497,
+                    "endColumn": 101,
+                    "endOffset": 125594
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5986,9 +5947,9 @@
                 "to": {
                     "startLine": 1603,
                     "startColumn": 4,
-                    "startOffset": 125828,
-                    "endColumn": 97,
-                    "endOffset": 125921
+                    "startOffset": 125599,
+                    "endColumn": 107,
+                    "endOffset": 125702
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -5998,10 +5959,21 @@
                 "to": {
                     "startLine": 1604,
                     "startColumn": 4,
-                    "startOffset": 125926,
-                    "endLine": 1605,
-                    "endColumn": 12,
-                    "endOffset": 126031
+                    "startOffset": 125707,
+                    "endColumn": 107,
+                    "endOffset": 125810
+                },
+                "from": {
+                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1605,
+                    "startColumn": 4,
+                    "startOffset": 125815,
+                    "endColumn": 99,
+                    "endOffset": 125910
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6011,9 +5983,9 @@
                 "to": {
                     "startLine": 1606,
                     "startColumn": 4,
-                    "startOffset": 126036,
-                    "endColumn": 77,
-                    "endOffset": 126109
+                    "startOffset": 125915,
+                    "endColumn": 79,
+                    "endOffset": 125990
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6023,9 +5995,9 @@
                 "to": {
                     "startLine": 1607,
                     "startColumn": 4,
-                    "startOffset": 126114,
-                    "endColumn": 105,
-                    "endOffset": 126215
+                    "startOffset": 125995,
+                    "endColumn": 91,
+                    "endOffset": 126082
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6035,9 +6007,9 @@
                 "to": {
                     "startLine": 1608,
                     "startColumn": 4,
-                    "startOffset": 126220,
-                    "endColumn": 91,
-                    "endOffset": 126307
+                    "startOffset": 126087,
+                    "endColumn": 97,
+                    "endOffset": 126180
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6047,21 +6019,10 @@
                 "to": {
                     "startLine": 1609,
                     "startColumn": 4,
-                    "startOffset": 126312,
-                    "endColumn": 103,
-                    "endOffset": 126411
-                },
-                "from": {
-                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1610,
-                    "startColumn": 4,
-                    "startOffset": 126416,
-                    "endColumn": 109,
-                    "endOffset": 126521
+                    "startOffset": 126185,
+                    "endLine": 1610,
+                    "endColumn": 12,
+                    "endOffset": 126290
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6071,10 +6032,21 @@
                 "to": {
                     "startLine": 1611,
                     "startColumn": 4,
-                    "startOffset": 126526,
-                    "endLine": 1612,
-                    "endColumn": 12,
-                    "endOffset": 126643
+                    "startOffset": 126295,
+                    "endColumn": 77,
+                    "endOffset": 126368
+                },
+                "from": {
+                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1612,
+                    "startColumn": 4,
+                    "startOffset": 126373,
+                    "endColumn": 105,
+                    "endOffset": 126474
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6084,10 +6056,9 @@
                 "to": {
                     "startLine": 1613,
                     "startColumn": 4,
-                    "startOffset": 126648,
-                    "endLine": 1616,
-                    "endColumn": 12,
-                    "endOffset": 126806
+                    "startOffset": 126479,
+                    "endColumn": 91,
+                    "endOffset": 126566
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6095,12 +6066,11 @@
             },
             {
                 "to": {
-                    "startLine": 1617,
+                    "startLine": 1614,
                     "startColumn": 4,
-                    "startOffset": 126811,
-                    "endLine": 1620,
-                    "endColumn": 12,
-                    "endOffset": 126963
+                    "startOffset": 126571,
+                    "endColumn": 103,
+                    "endOffset": 126670
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6108,25 +6078,63 @@
             },
             {
                 "to": {
-                    "startLine": 1621,
+                    "startLine": 1615,
                     "startColumn": 4,
-                    "startOffset": 126968,
-                    "endLine": 1623,
-                    "endColumn": 12,
-                    "endOffset": 127117
+                    "startOffset": 126675,
+                    "endColumn": 109,
+                    "endOffset": 126780
                 },
                 "from": {
-                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"
+                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 1624,
+                    "startLine": 1616,
                     "startColumn": 4,
-                    "startOffset": 127122,
+                    "startOffset": 126785,
+                    "endLine": 1617,
+                    "endColumn": 12,
+                    "endOffset": 126902
+                },
+                "from": {
+                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1618,
+                    "startColumn": 4,
+                    "startOffset": 126907,
+                    "endLine": 1621,
+                    "endColumn": 12,
+                    "endOffset": 127065
+                },
+                "from": {
+                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1622,
+                    "startColumn": 4,
+                    "startOffset": 127070,
+                    "endLine": 1625,
+                    "endColumn": 12,
+                    "endOffset": 127222
+                },
+                "from": {
+                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1626,
+                    "startColumn": 4,
+                    "startOffset": 127227,
                     "endLine": 1628,
                     "endColumn": 12,
-                    "endOffset": 127475
+                    "endOffset": 127376
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"
@@ -6136,10 +6144,10 @@
                 "to": {
                     "startLine": 1629,
                     "startColumn": 4,
-                    "startOffset": 127480,
-                    "endLine": 1631,
+                    "startOffset": 127381,
+                    "endLine": 1633,
                     "endColumn": 12,
-                    "endOffset": 127642
+                    "endOffset": 127734
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"
@@ -6147,12 +6155,12 @@
             },
             {
                 "to": {
-                    "startLine": 1632,
+                    "startLine": 1634,
                     "startColumn": 4,
-                    "startOffset": 127647,
+                    "startOffset": 127739,
                     "endLine": 1636,
                     "endColumn": 12,
-                    "endOffset": 128012
+                    "endOffset": 127901
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"
@@ -6162,10 +6170,10 @@
                 "to": {
                     "startLine": 1637,
                     "startColumn": 4,
-                    "startOffset": 128017,
-                    "endLine": 1640,
+                    "startOffset": 127906,
+                    "endLine": 1641,
                     "endColumn": 12,
-                    "endOffset": 128172
+                    "endOffset": 128271
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"
@@ -6173,85 +6181,49 @@
             },
             {
                 "to": {
-                    "startLine": 1641,
+                    "startLine": 1642,
                     "startColumn": 4,
-                    "startOffset": 128177,
-                    "endLine": 1644,
+                    "startOffset": 128276,
+                    "endLine": 1645,
                     "endColumn": 12,
-                    "endOffset": 128326
+                    "endOffset": 128431
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1645,
-                    "startColumn": 4,
-                    "startOffset": 128331,
-                    "endColumn": 79,
-                    "endOffset": 128406
-                },
-                "from": {
-                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 1646,
                     "startColumn": 4,
-                    "startOffset": 128411,
-                    "endColumn": 99,
-                    "endOffset": 128506
+                    "startOffset": 128436,
+                    "endLine": 1649,
+                    "endColumn": 12,
+                    "endOffset": 128585
                 },
                 "from": {
-                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1647,
-                    "startColumn": 4,
-                    "startOffset": 128511,
-                    "endColumn": 89,
-                    "endOffset": 128596
-                },
-                "from": {
-                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1648,
-                    "startColumn": 4,
-                    "startOffset": 128601,
-                    "endColumn": 109,
-                    "endOffset": 128706
-                },
-                "from": {
-                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1649,
-                    "startColumn": 4,
-                    "startOffset": 128711,
-                    "endColumn": 91,
-                    "endOffset": 128798
-                },
-                "from": {
-                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
+                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 1650,
                     "startColumn": 4,
-                    "startOffset": 128803,
-                    "endLine": 1651,
-                    "endColumn": 12,
-                    "endOffset": 128898
+                    "startOffset": 128590,
+                    "endColumn": 79,
+                    "endOffset": 128665
+                },
+                "from": {
+                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1651,
+                    "startColumn": 4,
+                    "startOffset": 128670,
+                    "endColumn": 99,
+                    "endOffset": 128765
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6261,10 +6233,21 @@
                 "to": {
                     "startLine": 1652,
                     "startColumn": 4,
-                    "startOffset": 128903,
-                    "endLine": 1653,
-                    "endColumn": 12,
-                    "endOffset": 129010
+                    "startOffset": 128770,
+                    "endColumn": 89,
+                    "endOffset": 128855
+                },
+                "from": {
+                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1653,
+                    "startColumn": 4,
+                    "startOffset": 128860,
+                    "endColumn": 109,
+                    "endOffset": 128965
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6274,10 +6257,9 @@
                 "to": {
                     "startLine": 1654,
                     "startColumn": 4,
-                    "startOffset": 129015,
-                    "endLine": 1655,
-                    "endColumn": 12,
-                    "endOffset": 129124
+                    "startOffset": 128970,
+                    "endColumn": 91,
+                    "endOffset": 129057
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6285,12 +6267,12 @@
             },
             {
                 "to": {
-                    "startLine": 1656,
+                    "startLine": 1655,
                     "startColumn": 4,
-                    "startOffset": 129129,
-                    "endLine": 1657,
+                    "startOffset": 129062,
+                    "endLine": 1656,
                     "endColumn": 12,
-                    "endOffset": 129240
+                    "endOffset": 129157
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6298,12 +6280,12 @@
             },
             {
                 "to": {
-                    "startLine": 1658,
+                    "startLine": 1657,
                     "startColumn": 4,
-                    "startOffset": 129245,
-                    "endLine": 1659,
+                    "startOffset": 129162,
+                    "endLine": 1658,
                     "endColumn": 12,
-                    "endOffset": 129356
+                    "endOffset": 129269
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6311,11 +6293,12 @@
             },
             {
                 "to": {
-                    "startLine": 1660,
+                    "startLine": 1659,
                     "startColumn": 4,
-                    "startOffset": 129361,
-                    "endColumn": 93,
-                    "endOffset": 129450
+                    "startOffset": 129274,
+                    "endLine": 1660,
+                    "endColumn": 12,
+                    "endOffset": 129383
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6325,21 +6308,10 @@
                 "to": {
                     "startLine": 1661,
                     "startColumn": 4,
-                    "startOffset": 129455,
-                    "endColumn": 113,
-                    "endOffset": 129564
-                },
-                "from": {
-                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1662,
-                    "startColumn": 4,
-                    "startOffset": 129569,
-                    "endColumn": 111,
-                    "endOffset": 129676
+                    "startOffset": 129388,
+                    "endLine": 1662,
+                    "endColumn": 12,
+                    "endOffset": 129499
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6349,10 +6321,10 @@
                 "to": {
                     "startLine": 1663,
                     "startColumn": 4,
-                    "startOffset": 129681,
+                    "startOffset": 129504,
                     "endLine": 1664,
                     "endColumn": 12,
-                    "endOffset": 129778
+                    "endOffset": 129615
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6362,10 +6334,21 @@
                 "to": {
                     "startLine": 1665,
                     "startColumn": 4,
-                    "startOffset": 129783,
-                    "endLine": 1666,
-                    "endColumn": 12,
-                    "endOffset": 129898
+                    "startOffset": 129620,
+                    "endColumn": 93,
+                    "endOffset": 129709
+                },
+                "from": {
+                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1666,
+                    "startColumn": 4,
+                    "startOffset": 129714,
+                    "endColumn": 113,
+                    "endOffset": 129823
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6375,10 +6358,9 @@
                 "to": {
                     "startLine": 1667,
                     "startColumn": 4,
-                    "startOffset": 129903,
-                    "endLine": 1668,
-                    "endColumn": 12,
-                    "endOffset": 130020
+                    "startOffset": 129828,
+                    "endColumn": 111,
+                    "endOffset": 129935
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6386,11 +6368,12 @@
             },
             {
                 "to": {
-                    "startLine": 1669,
+                    "startLine": 1668,
                     "startColumn": 4,
-                    "startOffset": 130025,
-                    "endColumn": 81,
-                    "endOffset": 130102
+                    "startOffset": 129940,
+                    "endLine": 1669,
+                    "endColumn": 12,
+                    "endOffset": 130037
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6400,21 +6383,10 @@
                 "to": {
                     "startLine": 1670,
                     "startColumn": 4,
-                    "startOffset": 130107,
-                    "endColumn": 103,
-                    "endOffset": 130206
-                },
-                "from": {
-                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1671,
-                    "startColumn": 4,
-                    "startOffset": 130211,
-                    "endColumn": 119,
-                    "endOffset": 130326
+                    "startOffset": 130042,
+                    "endLine": 1671,
+                    "endColumn": 12,
+                    "endOffset": 130157
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6424,21 +6396,10 @@
                 "to": {
                     "startLine": 1672,
                     "startColumn": 4,
-                    "startOffset": 130331,
-                    "endColumn": 125,
-                    "endOffset": 130452
-                },
-                "from": {
-                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1673,
-                    "startColumn": 4,
-                    "startOffset": 130457,
-                    "endColumn": 97,
-                    "endOffset": 130550
+                    "startOffset": 130162,
+                    "endLine": 1673,
+                    "endColumn": 12,
+                    "endOffset": 130279
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6448,9 +6409,9 @@
                 "to": {
                     "startLine": 1674,
                     "startColumn": 4,
-                    "startOffset": 130555,
-                    "endColumn": 93,
-                    "endOffset": 130644
+                    "startOffset": 130284,
+                    "endColumn": 81,
+                    "endOffset": 130361
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6460,9 +6421,9 @@
                 "to": {
                     "startLine": 1675,
                     "startColumn": 4,
-                    "startOffset": 130649,
-                    "endColumn": 87,
-                    "endOffset": 130732
+                    "startOffset": 130366,
+                    "endColumn": 103,
+                    "endOffset": 130465
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6472,9 +6433,9 @@
                 "to": {
                     "startLine": 1676,
                     "startColumn": 4,
-                    "startOffset": 130737,
-                    "endColumn": 111,
-                    "endOffset": 130844
+                    "startOffset": 130470,
+                    "endColumn": 119,
+                    "endOffset": 130585
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6484,9 +6445,9 @@
                 "to": {
                     "startLine": 1677,
                     "startColumn": 4,
-                    "startOffset": 130849,
-                    "endColumn": 115,
-                    "endOffset": 130960
+                    "startOffset": 130590,
+                    "endColumn": 125,
+                    "endOffset": 130711
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6496,9 +6457,9 @@
                 "to": {
                     "startLine": 1678,
                     "startColumn": 4,
-                    "startOffset": 130965,
-                    "endColumn": 121,
-                    "endOffset": 131082
+                    "startOffset": 130716,
+                    "endColumn": 97,
+                    "endOffset": 130809
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6508,9 +6469,9 @@
                 "to": {
                     "startLine": 1679,
                     "startColumn": 4,
-                    "startOffset": 131087,
-                    "endColumn": 111,
-                    "endOffset": 131194
+                    "startOffset": 130814,
+                    "endColumn": 93,
+                    "endOffset": 130903
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6520,10 +6481,33 @@
                 "to": {
                     "startLine": 1680,
                     "startColumn": 4,
-                    "startOffset": 131199,
-                    "endLine": 1682,
-                    "endColumn": 12,
-                    "endOffset": 131369
+                    "startOffset": 130908,
+                    "endColumn": 87,
+                    "endOffset": 130991
+                },
+                "from": {
+                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1681,
+                    "startColumn": 4,
+                    "startOffset": 130996,
+                    "endColumn": 111,
+                    "endOffset": 131103
+                },
+                "from": {
+                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1682,
+                    "startColumn": 4,
+                    "startOffset": 131108,
+                    "endColumn": 115,
+                    "endOffset": 131219
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6533,9 +6517,9 @@
                 "to": {
                     "startLine": 1683,
                     "startColumn": 4,
-                    "startOffset": 131374,
-                    "endColumn": 115,
-                    "endOffset": 131485
+                    "startOffset": 131224,
+                    "endColumn": 121,
+                    "endOffset": 131341
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6545,9 +6529,9 @@
                 "to": {
                     "startLine": 1684,
                     "startColumn": 4,
-                    "startOffset": 131490,
-                    "endColumn": 85,
-                    "endOffset": 131571
+                    "startOffset": 131346,
+                    "endColumn": 111,
+                    "endOffset": 131453
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6557,22 +6541,10 @@
                 "to": {
                     "startLine": 1685,
                     "startColumn": 4,
-                    "startOffset": 131576,
-                    "endColumn": 91,
-                    "endOffset": 131663
-                },
-                "from": {
-                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1686,
-                    "startColumn": 4,
-                    "startOffset": 131668,
+                    "startOffset": 131458,
                     "endLine": 1687,
                     "endColumn": 12,
-                    "endOffset": 131775
+                    "endOffset": 131628
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6582,10 +6554,21 @@
                 "to": {
                     "startLine": 1688,
                     "startColumn": 4,
-                    "startOffset": 131780,
-                    "endLine": 1689,
-                    "endColumn": 12,
-                    "endOffset": 131899
+                    "startOffset": 131633,
+                    "endColumn": 115,
+                    "endOffset": 131744
+                },
+                "from": {
+                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1689,
+                    "startColumn": 4,
+                    "startOffset": 131749,
+                    "endColumn": 85,
+                    "endOffset": 131830
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6595,9 +6578,9 @@
                 "to": {
                     "startLine": 1690,
                     "startColumn": 4,
-                    "startOffset": 131904,
-                    "endColumn": 66,
-                    "endOffset": 131966
+                    "startOffset": 131835,
+                    "endColumn": 91,
+                    "endOffset": 131922
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6607,10 +6590,10 @@
                 "to": {
                     "startLine": 1691,
                     "startColumn": 4,
-                    "startOffset": 131971,
+                    "startOffset": 131927,
                     "endLine": 1692,
                     "endColumn": 12,
-                    "endOffset": 132092
+                    "endOffset": 132034
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6620,9 +6603,10 @@
                 "to": {
                     "startLine": 1693,
                     "startColumn": 4,
-                    "startOffset": 132097,
-                    "endColumn": 67,
-                    "endOffset": 132160
+                    "startOffset": 132039,
+                    "endLine": 1694,
+                    "endColumn": 12,
+                    "endOffset": 132158
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6630,12 +6614,11 @@
             },
             {
                 "to": {
-                    "startLine": 1694,
+                    "startLine": 1695,
                     "startColumn": 4,
-                    "startOffset": 132165,
-                    "endLine": 1695,
-                    "endColumn": 12,
-                    "endOffset": 132288
+                    "startOffset": 132163,
+                    "endColumn": 66,
+                    "endOffset": 132225
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6645,10 +6628,10 @@
                 "to": {
                     "startLine": 1696,
                     "startColumn": 4,
-                    "startOffset": 132293,
+                    "startOffset": 132230,
                     "endLine": 1697,
                     "endColumn": 12,
-                    "endOffset": 132432
+                    "endOffset": 132351
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6658,10 +6641,9 @@
                 "to": {
                     "startLine": 1698,
                     "startColumn": 4,
-                    "startOffset": 132437,
-                    "endLine": 1699,
-                    "endColumn": 12,
-                    "endOffset": 132560
+                    "startOffset": 132356,
+                    "endColumn": 67,
+                    "endOffset": 132419
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6669,11 +6651,12 @@
             },
             {
                 "to": {
-                    "startLine": 1700,
+                    "startLine": 1699,
                     "startColumn": 4,
-                    "startOffset": 132565,
-                    "endColumn": 68,
-                    "endOffset": 132629
+                    "startOffset": 132424,
+                    "endLine": 1700,
+                    "endColumn": 12,
+                    "endOffset": 132547
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6683,21 +6666,10 @@
                 "to": {
                     "startLine": 1701,
                     "startColumn": 4,
-                    "startOffset": 132634,
-                    "endColumn": 94,
-                    "endOffset": 132724
-                },
-                "from": {
-                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1702,
-                    "startColumn": 4,
-                    "startOffset": 132729,
-                    "endColumn": 114,
-                    "endOffset": 132839
+                    "startOffset": 132552,
+                    "endLine": 1702,
+                    "endColumn": 12,
+                    "endOffset": 132691
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6707,21 +6679,10 @@
                 "to": {
                     "startLine": 1703,
                     "startColumn": 4,
-                    "startOffset": 132844,
-                    "endColumn": 112,
-                    "endOffset": 132952
-                },
-                "from": {
-                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1704,
-                    "startColumn": 4,
-                    "startOffset": 132957,
-                    "endColumn": 98,
-                    "endOffset": 133051
+                    "startOffset": 132696,
+                    "endLine": 1704,
+                    "endColumn": 12,
+                    "endOffset": 132819
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6731,9 +6692,9 @@
                 "to": {
                     "startLine": 1705,
                     "startColumn": 4,
-                    "startOffset": 133056,
-                    "endColumn": 108,
-                    "endOffset": 133160
+                    "startOffset": 132824,
+                    "endColumn": 68,
+                    "endOffset": 132888
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6743,9 +6704,9 @@
                 "to": {
                     "startLine": 1706,
                     "startColumn": 4,
-                    "startOffset": 133165,
-                    "endColumn": 110,
-                    "endOffset": 133271
+                    "startOffset": 132893,
+                    "endColumn": 94,
+                    "endOffset": 132983
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6755,9 +6716,9 @@
                 "to": {
                     "startLine": 1707,
                     "startColumn": 4,
-                    "startOffset": 133276,
-                    "endColumn": 110,
-                    "endOffset": 133382
+                    "startOffset": 132988,
+                    "endColumn": 114,
+                    "endOffset": 133098
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6767,9 +6728,9 @@
                 "to": {
                     "startLine": 1708,
                     "startColumn": 4,
-                    "startOffset": 133387,
-                    "endColumn": 100,
-                    "endOffset": 133483
+                    "startOffset": 133103,
+                    "endColumn": 112,
+                    "endOffset": 133211
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6779,9 +6740,9 @@
                 "to": {
                     "startLine": 1709,
                     "startColumn": 4,
-                    "startOffset": 133488,
-                    "endColumn": 104,
-                    "endOffset": 133588
+                    "startOffset": 133216,
+                    "endColumn": 98,
+                    "endOffset": 133310
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6791,10 +6752,21 @@
                 "to": {
                     "startLine": 1710,
                     "startColumn": 4,
-                    "startOffset": 133593,
-                    "endLine": 1711,
-                    "endColumn": 12,
-                    "endOffset": 133700
+                    "startOffset": 133315,
+                    "endColumn": 108,
+                    "endOffset": 133419
+                },
+                "from": {
+                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1711,
+                    "startColumn": 4,
+                    "startOffset": 133424,
+                    "endColumn": 110,
+                    "endOffset": 133530
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6804,10 +6776,21 @@
                 "to": {
                     "startLine": 1712,
                     "startColumn": 4,
-                    "startOffset": 133705,
-                    "endLine": 1713,
-                    "endColumn": 12,
-                    "endOffset": 133830
+                    "startOffset": 133535,
+                    "endColumn": 110,
+                    "endOffset": 133641
+                },
+                "from": {
+                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1713,
+                    "startColumn": 4,
+                    "startOffset": 133646,
+                    "endColumn": 100,
+                    "endOffset": 133742
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6817,9 +6800,9 @@
                 "to": {
                     "startLine": 1714,
                     "startColumn": 4,
-                    "startOffset": 133835,
-                    "endColumn": 90,
-                    "endOffset": 133921
+                    "startOffset": 133747,
+                    "endColumn": 104,
+                    "endOffset": 133847
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6829,22 +6812,10 @@
                 "to": {
                     "startLine": 1715,
                     "startColumn": 4,
-                    "startOffset": 133926,
-                    "endColumn": 122,
-                    "endOffset": 134044
-                },
-                "from": {
-                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1716,
-                    "startColumn": 4,
-                    "startOffset": 134049,
-                    "endLine": 1717,
+                    "startOffset": 133852,
+                    "endLine": 1716,
                     "endColumn": 12,
-                    "endOffset": 134156
+                    "endOffset": 133959
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6852,11 +6823,12 @@
             },
             {
                 "to": {
-                    "startLine": 1718,
+                    "startLine": 1717,
                     "startColumn": 4,
-                    "startOffset": 134161,
-                    "endColumn": 85,
-                    "endOffset": 134242
+                    "startOffset": 133964,
+                    "endLine": 1718,
+                    "endColumn": 12,
+                    "endOffset": 134089
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6866,9 +6838,9 @@
                 "to": {
                     "startLine": 1719,
                     "startColumn": 4,
-                    "startOffset": 134247,
-                    "endColumn": 103,
-                    "endOffset": 134346
+                    "startOffset": 134094,
+                    "endColumn": 90,
+                    "endOffset": 134180
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6878,10 +6850,9 @@
                 "to": {
                     "startLine": 1720,
                     "startColumn": 4,
-                    "startOffset": 134351,
-                    "endLine": 1721,
-                    "endColumn": 12,
-                    "endOffset": 134454
+                    "startOffset": 134185,
+                    "endColumn": 122,
+                    "endOffset": 134303
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6889,12 +6860,24 @@
             },
             {
                 "to": {
-                    "startLine": 1722,
+                    "startLine": 1721,
                     "startColumn": 4,
-                    "startOffset": 134459,
-                    "endLine": 1723,
+                    "startOffset": 134308,
+                    "endLine": 1722,
                     "endColumn": 12,
-                    "endOffset": 134554
+                    "endOffset": 134415
+                },
+                "from": {
+                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1723,
+                    "startColumn": 4,
+                    "startOffset": 134420,
+                    "endColumn": 85,
+                    "endOffset": 134501
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6904,10 +6887,9 @@
                 "to": {
                     "startLine": 1724,
                     "startColumn": 4,
-                    "startOffset": 134559,
-                    "endLine": 1725,
-                    "endColumn": 12,
-                    "endOffset": 134672
+                    "startOffset": 134506,
+                    "endColumn": 103,
+                    "endOffset": 134605
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6915,12 +6897,12 @@
             },
             {
                 "to": {
-                    "startLine": 1726,
+                    "startLine": 1725,
                     "startColumn": 4,
-                    "startOffset": 134677,
-                    "endLine": 1727,
+                    "startOffset": 134610,
+                    "endLine": 1726,
                     "endColumn": 12,
-                    "endOffset": 134776
+                    "endOffset": 134713
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6928,12 +6910,12 @@
             },
             {
                 "to": {
-                    "startLine": 1728,
+                    "startLine": 1727,
                     "startColumn": 4,
-                    "startOffset": 134781,
-                    "endLine": 1729,
+                    "startOffset": 134718,
+                    "endLine": 1728,
                     "endColumn": 12,
-                    "endOffset": 134880
+                    "endOffset": 134813
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6941,12 +6923,12 @@
             },
             {
                 "to": {
-                    "startLine": 1730,
+                    "startLine": 1729,
                     "startColumn": 4,
-                    "startOffset": 134885,
-                    "endLine": 1731,
+                    "startOffset": 134818,
+                    "endLine": 1730,
                     "endColumn": 12,
-                    "endOffset": 135006
+                    "endOffset": 134931
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6954,11 +6936,12 @@
             },
             {
                 "to": {
-                    "startLine": 1732,
+                    "startLine": 1731,
                     "startColumn": 4,
-                    "startOffset": 135011,
-                    "endColumn": 87,
-                    "endOffset": 135094
+                    "startOffset": 134936,
+                    "endLine": 1732,
+                    "endColumn": 12,
+                    "endOffset": 135035
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6968,21 +6951,10 @@
                 "to": {
                     "startLine": 1733,
                     "startColumn": 4,
-                    "startOffset": 135099,
-                    "endColumn": 107,
-                    "endOffset": 135202
-                },
-                "from": {
-                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1734,
-                    "startColumn": 4,
-                    "startOffset": 135207,
-                    "endColumn": 99,
-                    "endOffset": 135302
+                    "startOffset": 135040,
+                    "endLine": 1734,
+                    "endColumn": 12,
+                    "endOffset": 135139
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -6992,21 +6964,10 @@
                 "to": {
                     "startLine": 1735,
                     "startColumn": 4,
-                    "startOffset": 135307,
-                    "endColumn": 89,
-                    "endOffset": 135392
-                },
-                "from": {
-                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1736,
-                    "startColumn": 4,
-                    "startOffset": 135397,
-                    "endColumn": 109,
-                    "endOffset": 135502
+                    "startOffset": 135144,
+                    "endLine": 1736,
+                    "endColumn": 12,
+                    "endOffset": 135265
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -7016,9 +6977,9 @@
                 "to": {
                     "startLine": 1737,
                     "startColumn": 4,
-                    "startOffset": 135507,
-                    "endColumn": 83,
-                    "endOffset": 135586
+                    "startOffset": 135270,
+                    "endColumn": 87,
+                    "endOffset": 135353
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -7028,9 +6989,9 @@
                 "to": {
                     "startLine": 1738,
                     "startColumn": 4,
-                    "startOffset": 135591,
-                    "endColumn": 83,
-                    "endOffset": 135670
+                    "startOffset": 135358,
+                    "endColumn": 107,
+                    "endOffset": 135461
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -7040,9 +7001,9 @@
                 "to": {
                     "startLine": 1739,
                     "startColumn": 4,
-                    "startOffset": 135675,
-                    "endColumn": 53,
-                    "endOffset": 135724
+                    "startOffset": 135466,
+                    "endColumn": 99,
+                    "endOffset": 135561
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -7052,9 +7013,9 @@
                 "to": {
                     "startLine": 1740,
                     "startColumn": 4,
-                    "startOffset": 135729,
-                    "endColumn": 63,
-                    "endOffset": 135788
+                    "startOffset": 135566,
+                    "endColumn": 89,
+                    "endOffset": 135651
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -7064,9 +7025,9 @@
                 "to": {
                     "startLine": 1741,
                     "startColumn": 4,
-                    "startOffset": 135793,
-                    "endColumn": 105,
-                    "endOffset": 135894
+                    "startOffset": 135656,
+                    "endColumn": 109,
+                    "endOffset": 135761
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -7076,9 +7037,9 @@
                 "to": {
                     "startLine": 1742,
                     "startColumn": 4,
-                    "startOffset": 135899,
-                    "endColumn": 109,
-                    "endOffset": 136004
+                    "startOffset": 135766,
+                    "endColumn": 83,
+                    "endOffset": 135845
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -7088,9 +7049,9 @@
                 "to": {
                     "startLine": 1743,
                     "startColumn": 4,
-                    "startOffset": 136009,
+                    "startOffset": 135850,
                     "endColumn": 83,
-                    "endOffset": 136088
+                    "endOffset": 135929
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -7100,9 +7061,9 @@
                 "to": {
                     "startLine": 1744,
                     "startColumn": 4,
-                    "startOffset": 136093,
-                    "endColumn": 119,
-                    "endOffset": 136208
+                    "startOffset": 135934,
+                    "endColumn": 53,
+                    "endOffset": 135983
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
@@ -7112,23 +7073,70 @@
                 "to": {
                     "startLine": 1745,
                     "startColumn": 4,
-                    "startOffset": 136213,
-                    "endLine": 1748,
-                    "endColumn": 12,
-                    "endOffset": 136426
+                    "startOffset": 135988,
+                    "endColumn": 63,
+                    "endOffset": 136047
                 },
                 "from": {
-                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"
+                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1746,
+                    "startColumn": 4,
+                    "startOffset": 136052,
+                    "endColumn": 105,
+                    "endOffset": 136153
+                },
+                "from": {
+                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1747,
+                    "startColumn": 4,
+                    "startOffset": 136158,
+                    "endColumn": 109,
+                    "endOffset": 136263
+                },
+                "from": {
+                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1748,
+                    "startColumn": 4,
+                    "startOffset": 136268,
+                    "endColumn": 83,
+                    "endOffset": 136347
+                },
+                "from": {
+                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 1749,
                     "startColumn": 4,
-                    "startOffset": 136431,
-                    "endLine": 1754,
+                    "startOffset": 136352,
+                    "endColumn": 119,
+                    "endOffset": 136467
+                },
+                "from": {
+                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1750,
+                    "startColumn": 4,
+                    "startOffset": 136472,
+                    "endLine": 1753,
                     "endColumn": 12,
-                    "endOffset": 136824
+                    "endOffset": 136685
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"
@@ -7136,12 +7144,12 @@
             },
             {
                 "to": {
-                    "startLine": 1755,
+                    "startLine": 1754,
                     "startColumn": 4,
-                    "startOffset": 136829,
-                    "endLine": 1758,
+                    "startOffset": 136690,
+                    "endLine": 1759,
                     "endColumn": 12,
-                    "endOffset": 137031
+                    "endOffset": 137083
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"
@@ -7149,12 +7157,12 @@
             },
             {
                 "to": {
-                    "startLine": 1759,
+                    "startLine": 1760,
                     "startColumn": 4,
-                    "startOffset": 137036,
-                    "endLine": 1761,
+                    "startOffset": 137088,
+                    "endLine": 1763,
                     "endColumn": 12,
-                    "endOffset": 137190
+                    "endOffset": 137290
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"
@@ -7162,12 +7170,12 @@
             },
             {
                 "to": {
-                    "startLine": 1762,
+                    "startLine": 1764,
                     "startColumn": 4,
-                    "startOffset": 137195,
-                    "endLine": 1770,
+                    "startOffset": 137295,
+                    "endLine": 1766,
                     "endColumn": 12,
-                    "endOffset": 137757
+                    "endOffset": 137449
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"
@@ -7175,12 +7183,12 @@
             },
             {
                 "to": {
-                    "startLine": 1771,
+                    "startLine": 1767,
                     "startColumn": 4,
-                    "startOffset": 137762,
-                    "endLine": 1776,
+                    "startOffset": 137454,
+                    "endLine": 1775,
                     "endColumn": 12,
-                    "endOffset": 138118
+                    "endOffset": 138016
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"
@@ -7188,12 +7196,12 @@
             },
             {
                 "to": {
-                    "startLine": 1777,
+                    "startLine": 1776,
                     "startColumn": 4,
-                    "startOffset": 138123,
-                    "endLine": 1779,
+                    "startOffset": 138021,
+                    "endLine": 1781,
                     "endColumn": 12,
-                    "endOffset": 138247
+                    "endOffset": 138377
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"
@@ -7201,12 +7209,12 @@
             },
             {
                 "to": {
-                    "startLine": 1780,
+                    "startLine": 1782,
                     "startColumn": 4,
-                    "startOffset": 138252,
-                    "endLine": 1789,
+                    "startOffset": 138382,
+                    "endLine": 1784,
                     "endColumn": 12,
-                    "endOffset": 138991
+                    "endOffset": 138506
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"
@@ -7214,12 +7222,12 @@
             },
             {
                 "to": {
-                    "startLine": 1790,
+                    "startLine": 1785,
                     "startColumn": 4,
-                    "startOffset": 138996,
-                    "endLine": 1793,
+                    "startOffset": 138511,
+                    "endLine": 1794,
                     "endColumn": 12,
-                    "endOffset": 139171
+                    "endOffset": 139250
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"
@@ -7227,12 +7235,25 @@
             },
             {
                 "to": {
-                    "startLine": 1794,
+                    "startLine": 1795,
                     "startColumn": 4,
-                    "startOffset": 139176,
-                    "endLine": 1799,
+                    "startOffset": 139255,
+                    "endLine": 1798,
                     "endColumn": 12,
-                    "endOffset": 139612
+                    "endOffset": 139430
+                },
+                "from": {
+                    "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1799,
+                    "startColumn": 4,
+                    "startOffset": 139435,
+                    "endLine": 1804,
+                    "endColumn": 12,
+                    "endOffset": 139871
                 },
                 "from": {
                     "file": "C:\\Users\\luisrafael1995\\Desktop\\NeetiProject\\NEETI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\values\\values.xml"
