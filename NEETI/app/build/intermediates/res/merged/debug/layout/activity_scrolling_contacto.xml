@@ -34,14 +34,38 @@
         app:layout_behavior="@string/appbar_scrolling_view_behavior"
         tools:context="pt.ulisboa.tecnico.neeti.ScrollingActivity"
         tools:showIn="@layout/activity_scrolling_cadeiras">
+        <LinearLayout
 
-        <TextView
-            android:id="@+id/page_text_neeti"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:state_selected="true"
-            android:layout_margin="@dimen/text_margin"
-            android:text="@string/large_text_contacto" />
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/page_text_neeti1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:state_selected="true"
+                android:autoLink="email"
+                android:linksClickable="true"
+                android:layout_margin="@dimen/text_margin"
+                android:text="@string/large_text_contacto1" />
+            <TextView
+                android:id="@+id/page_text_neeti3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:state_selected="true"
+                android:layout_margin="@dimen/text_margin"
+                android:text="@string/large_text_contacto3" />
+            <TextView
+                android:id="@+id/page_text_neeti4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:state_selected="true"
+                android:autoLink="phone"
+                android:linksClickable="true"
+                android:layout_margin="@dimen/text_margin"
+                android:text="@string/large_text_contacto4" />
+
+        </LinearLayout>
 
     </android.support.v4.widget.NestedScrollView>
 

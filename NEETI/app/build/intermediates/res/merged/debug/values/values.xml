@@ -332,12 +332,16 @@
         50%, quer para a classificação final do ensino secundário, quer para as provas de ingresso (disciplinas específicas).
         \n\n<b>Vagas Iniciais:</b> 55\n\n
     </string>
-    <string name="large_text_contacto">Para contactos de qualquer espécie, o nosso email é:
-        <font color="blue"><a href="geral@neeti.tecnico.ulisboa.pt">geral@neeti.tecnico.ulisboa.pt</a></font>
-        \n\nTambém estamos sempre à disposição na sala 1.9 do Campus do Taguspark do IST.
+    <string name="large_text_contacto1">
+        Para contactos de qualquer espécie, o nosso email é: geral@neeti.tecnico.ulisboa.pt
+    </string>
+    <string name="large_text_contacto3">
+        Também estamos sempre à disposição na sala 1.9 do Campus do Taguspark do IST.
         \nAv. Prof. Doutor Cavaco Silva, 2744-016 Porto Salvo
-        \n\nTelefone: <font color="blue"><a href="+351214233547">+351 214 233 547</a></font>
-        \nExtensão: 5147
+
+    </string>
+    <string name="large_text_contacto4">
+        Telefone: +351 214 233 547\nExtensão: 5147
     </string>
     <string name="large_text_eventos">
         "To be developed ..."
@@ -1496,9 +1500,6 @@
     <style name="RtlUnderlay.Widget.AppCompat.ActionButton.Overflow" parent="Base.Widget.AppCompat.ActionButton">
         <item name="android:paddingLeft">@dimen/abc_action_bar_overflow_padding_start_material</item>
         <item name="android:paddingRight">@dimen/abc_action_bar_overflow_padding_end_material</item>
-    </style>
-    <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
-        <item name="android:windowBackground">@drawable/splash</item>
     </style>
     <style name="TextAppearance.AppCompat" parent="Base.TextAppearance.AppCompat"/>
     <style name="TextAppearance.AppCompat.Body1" parent="Base.TextAppearance.AppCompat.Body1"/>
